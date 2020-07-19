@@ -1,0 +1,2062 @@
+id	turn1	turn2	turn3	label
+155000	entirely infantile	 		1
+155001	Still , it just sits there like a side dish no one ordered .	 		1
+155002	, it just sits there like a side dish no one ordered .	 		1
+155003	it just sits there like a side dish no one ordered .	 		1
+155004	just sits there like a side dish no one ordered .	 		1
+155005	sits there like a side dish no one ordered .	 		1
+155006	sits there like a side dish no one ordered	 		1
+155007	sits there	 		2
+155008	like a side dish no one ordered	 		1
+155009	a side dish no one ordered	 		1
+155010	no one ordered	 		2
+155011	ordered	 		2
+155012	We can tell what it is supposed to be , but ca n't really call it a work of art .	 		1
+155013	can tell what it is supposed to be , but ca n't really call it a work of art .	 		1
+155014	can tell what it is supposed to be , but ca n't really call it a work of art	 		1
+155015	tell what it is supposed to be , but ca n't really call it a work of art	 		2
+155016	what it is supposed to be , but ca n't really call it a work of art	 		1
+155017	it is supposed to be , but ca n't really call it a work of art	 		1
+155018	is supposed to be , but ca n't really call it a work of art	 		1
+155019	is supposed to be , but	 		2
+155020	is supposed to be ,	 		2
+155021	ca n't really call it a work of art	 		1
+155022	call it a work of art	 		3
+155023	a work of art	 		4
+155024	A ragbag of cliches .	 		1
+155025	A ragbag of cliches	 		1
+155026	A ragbag	 		1
+155027	ragbag	 		1
+155028	It made me want to get made-up and go see this movie with my sisters .	 		3
+155029	made me want to get made-up and go see this movie with my sisters .	 		2
+155030	made me want to get made-up and go see this movie with my sisters	 		3
+155031	me want to get made-up and go see this movie with my sisters	 		3
+155032	want to get made-up and go see this movie with my sisters	 		3
+155033	to get made-up and go see this movie with my sisters	 		2
+155034	get made-up and go see this movie with my sisters	 		2
+155035	get made-up and	 		3
+155036	get made-up	 		2
+155037	go see this movie with my sisters	 		2
+155038	see this movie with my sisters	 		3
+155039	with my sisters	 		2
+155040	my sisters	 		2
+155041	Visually , ` Santa Clause 2 ' is wondrously creative .	 		3
+155042	, ` Santa Clause 2 ' is wondrously creative .	 		4
+155043	` Santa Clause 2 ' is wondrously creative .	 		4
+155044	Santa Clause 2 ' is wondrously creative .	 		4
+155045	' is wondrously creative .	 		2
+155046	is wondrously creative .	 		3
+155047	is wondrously creative	 		4
+155048	wondrously creative	 		4
+155049	Girlfriends are bad , wives are worse and babies are the kiss of death in this bitter Italian comedy .	 		1
+155050	Girlfriends are bad , wives are worse and babies are the kiss of death in this bitter Italian comedy	 		1
+155051	Girlfriends are bad , wives are worse and	 		2
+155052	Girlfriends are bad , wives are worse	 		1
+155053	Girlfriends are bad ,	 		2
+155054	Girlfriends are bad	 		2
+155055	Girlfriends	 		2
+155056	are bad	 		1
+155057	wives are worse	 		1
+155058	wives	 		2
+155059	are worse	 		1
+155060	babies are the kiss of death in this bitter Italian comedy	 		1
+155061	babies	 		2
+155062	are the kiss of death in this bitter Italian comedy	 		1
+155063	the kiss of death in this bitter Italian comedy	 		1
+155064	the kiss	 		2
+155065	of death in this bitter Italian comedy	 		1
+155066	death in this bitter Italian comedy	 		2
+155067	in this bitter Italian comedy	 		2
+155068	this bitter Italian comedy	 		1
+155069	bitter Italian comedy	 		1
+155070	Italian comedy	 		2
+155071	And we do n't avert our eyes for a moment .	 		3
+155072	we do n't avert our eyes for a moment .	 		3
+155073	do n't avert our eyes for a moment .	 		3
+155074	do n't avert our eyes for a moment	 		3
+155075	avert our eyes for a moment	 		2
+155076	avert our eyes	 		1
+155077	avert	 		2
+155078	our eyes	 		3
+155079	for a moment	 		2
+155080	a moment	 		2
+155081	Exudes the fizz of a Busby Berkeley musical and the visceral excitement of a sports extravaganza .	 		4
+155082	Exudes the fizz of a Busby Berkeley musical and the visceral excitement of a sports extravaganza	 		3
+155083	the fizz of a Busby Berkeley musical and the visceral excitement of a sports extravaganza	 		3
+155084	the fizz of a Busby Berkeley musical and	 		2
+155085	the fizz of a Busby Berkeley musical	 		2
+155086	the fizz	 		2
+155087	of a Busby Berkeley musical	 		2
+155088	a Busby Berkeley musical	 		2
+155089	Busby Berkeley musical	 		2
+155090	Busby	 		2
+155091	Berkeley musical	 		2
+155092	Berkeley	 		2
+155093	the visceral excitement of a sports extravaganza	 		4
+155094	the visceral excitement	 		3
+155095	visceral excitement	 		3
+155096	of a sports extravaganza	 		3
+155097	a sports extravaganza	 		3
+155098	sports extravaganza	 		3
+155099	For all its brilliant touches , Dragon loses its fire midway , nearly flickering out by its perfunctory conclusion .	 		1
+155100	For all its brilliant touches	 		3
+155101	all its brilliant touches	 		4
+155102	its brilliant touches	 		4
+155103	brilliant touches	 		3
+155104	, Dragon loses its fire midway , nearly flickering out by its perfunctory conclusion .	 		1
+155105	Dragon loses its fire midway , nearly flickering out by its perfunctory conclusion .	 		1
+155106	loses its fire midway , nearly flickering out by its perfunctory conclusion .	 		1
+155107	loses its fire midway , nearly flickering out by its perfunctory conclusion	 		1
+155108	loses its fire midway ,	 		1
+155109	loses its fire midway	 		2
+155110	loses its fire	 		1
+155111	its fire	 		2
+155112	nearly flickering out by its perfunctory conclusion	 		3
+155113	flickering out by its perfunctory conclusion	 		1
+155114	flickering out	 		2
+155115	by its perfunctory conclusion	 		2
+155116	its perfunctory conclusion	 		1
+155117	perfunctory conclusion	 		1
+155118	An engaging , formulaic sports drama that carries a charge of genuine excitement .	 		3
+155119	An engaging , formulaic sports drama that carries a charge of genuine excitement	 		3
+155120	An engaging ,	 		3
+155121	An engaging	 		3
+155122	formulaic sports drama that carries a charge of genuine excitement	 		3
+155123	formulaic sports drama	 		2
+155124	sports drama	 		2
+155125	that carries a charge of genuine excitement	 		3
+155126	carries a charge of genuine excitement	 		3
+155127	a charge of genuine excitement	 		4
+155128	a charge	 		2
+155129	of genuine excitement	 		4
+155130	genuine excitement	 		4
+155131	with a couple of burnt-out cylinders	 		2
+155132	a couple of burnt-out cylinders	 		1
+155133	of burnt-out cylinders	 		2
+155134	burnt-out cylinders	 		2
+155135	burnt-out	 		1
+155136	Tackles the difficult subject of grief and loss with such life-embracing spirit that the theme does n't drag an audience down .	 		3
+155137	Tackles the difficult subject of grief and loss with such life-embracing spirit that the theme does n't drag an audience down	 		4
+155138	Tackles the difficult subject of grief and loss with such life-embracing spirit	 		4
+155139	Tackles the difficult subject of grief and loss	 		3
+155140	the difficult subject of grief and loss	 		2
+155141	the difficult subject	 		2
+155142	difficult subject	 		2
+155143	of grief and loss	 		1
+155144	grief and loss	 		2
+155145	with such life-embracing spirit	 		3
+155146	such life-embracing spirit	 		3
+155147	life-embracing spirit	 		3
+155148	life-embracing	 		3
+155149	that the theme does n't drag an audience down	 		3
+155150	the theme does n't drag an audience down	 		3
+155151	does n't drag an audience down	 		3
+155152	drag an audience down	 		2
+155153	drag an audience	 		1
+155154	A moving story of determination and the human spirit .	 		4
+155155	A moving story of determination and the human spirit	 		3
+155156	A moving story	 		3
+155157	of determination and the human spirit	 		3
+155158	determination and the human spirit	 		3
+155159	determination and	 		2
+155160	We admire this film for its harsh objectivity and refusal to seek our tears , our sympathies .	 		4
+155161	admire this film for its harsh objectivity and refusal to seek our tears , our sympathies .	 		3
+155162	admire this film for its harsh objectivity and refusal to seek our tears , our sympathies	 		3
+155163	this film for its harsh objectivity and refusal to seek our tears , our sympathies	 		3
+155164	this film for its harsh objectivity and refusal	 		2
+155165	for its harsh objectivity and refusal	 		2
+155166	its harsh objectivity and refusal	 		2
+155167	harsh objectivity and refusal	 		1
+155168	objectivity and refusal	 		1
+155169	objectivity and	 		2
+155170	to seek our tears , our sympathies	 		3
+155171	seek our tears , our sympathies	 		2
+155172	our tears , our sympathies	 		2
+155173	our tears ,	 		2
+155174	our tears	 		2
+155175	our sympathies	 		3
+155176	Disgusting .	 		1
+155177	` Moore is like a progressive bull in a china shop , a provocateur crashing into ideas and special-interest groups as he slaps together his own brand of liberalism . '	 		1
+155178	Moore is like a progressive bull in a china shop , a provocateur crashing into ideas and special-interest groups as he slaps together his own brand of liberalism . '	 		2
+155179	is like a progressive bull in a china shop , a provocateur crashing into ideas and special-interest groups as he slaps together his own brand of liberalism . '	 		3
+155180	is like a progressive bull in a china shop , a provocateur crashing into ideas and special-interest groups as he slaps together his own brand of liberalism .	 		2
+155181	is like a progressive bull in a china shop , a provocateur crashing into ideas and special-interest groups as he slaps together his own brand of liberalism	 		2
+155182	like a progressive bull in a china shop , a provocateur crashing into ideas and special-interest groups as he slaps together his own brand of liberalism	 		2
+155183	a progressive bull in a china shop , a provocateur crashing into ideas and special-interest groups as he slaps together his own brand of liberalism	 		2
+155184	a progressive bull	 		2
+155185	progressive bull	 		2
+155186	progressive	 		2
+155187	in a china shop , a provocateur crashing into ideas and special-interest groups as he slaps together his own brand of liberalism	 		2
+155188	a china shop , a provocateur crashing into ideas and special-interest groups as he slaps together his own brand of liberalism	 		3
+155189	a china shop ,	 		2
+155190	a china shop	 		2
+155191	china shop	 		2
+155192	a provocateur crashing into ideas and special-interest groups as he slaps together his own brand of liberalism	 		2
+155193	a provocateur	 		3
+155194	provocateur	 		2
+155195	crashing into ideas and special-interest groups as he slaps together his own brand of liberalism	 		2
+155196	crashing into ideas and special-interest groups	 		2
+155197	into ideas and special-interest groups	 		2
+155198	ideas and special-interest groups	 		3
+155199	special-interest groups	 		2
+155200	special-interest	 		2
+155201	as he slaps together his own brand of liberalism	 		2
+155202	he slaps together his own brand of liberalism	 		1
+155203	slaps together his own brand of liberalism	 		2
+155204	slaps together	 		2
+155205	slaps	 		2
+155206	his own brand of liberalism	 		2
+155207	his own brand	 		2
+155208	own brand	 		2
+155209	of liberalism	 		2
+155210	liberalism	 		2
+155211	Reno does what he can in a thankless situation , the film ricochets from humor to violence and back again , and Ryoko Hirosue makes us wonder if she is always like that .	 		2
+155212	Reno does what he can in a thankless situation , the film ricochets from humor to violence and back again , and Ryoko Hirosue makes us wonder if she is always like that	 		3
+155213	Reno does what he can in a thankless situation , the film ricochets from humor to violence and back again , and	 		3
+155214	Reno does what he can in a thankless situation , the film ricochets from humor to violence and back again ,	 		3
+155215	Reno does what he can in a thankless situation , the film ricochets from humor to violence and back again	 		2
+155216	Reno does what he can in a thankless situation , the film ricochets from humor to violence and	 		2
+155217	Reno does what he can in a thankless situation , the film ricochets from humor to violence	 		2
+155218	Reno does what he can in a thankless situation ,	 		2
+155219	Reno does what he can in a thankless situation	 		2
+155220	does what he can in a thankless situation	 		2
+155221	what he can in a thankless situation	 		2
+155222	he can in a thankless situation	 		2
+155223	can in a thankless situation	 		2
+155224	in a thankless situation	 		2
+155225	a thankless situation	 		2
+155226	thankless situation	 		1
+155227	thankless	 		1
+155228	the film ricochets from humor to violence	 		2
+155229	ricochets from humor to violence	 		2
+155230	ricochets from humor	 		2
+155231	ricochets	 		2
+155232	from humor	 		3
+155233	to violence	 		2
+155234	back again	 		2
+155235	Ryoko Hirosue makes us wonder if she is always like that	 		2
+155236	Ryoko Hirosue	 		2
+155237	Ryoko	 		2
+155238	Hirosue	 		2
+155239	makes us wonder if she is always like that	 		2
+155240	us wonder if she is always like that	 		2
+155241	wonder if she is always like that	 		2
+155242	if she is always like that	 		2
+155243	she is always like that	 		2
+155244	is always like that	 		2
+155245	like that	 		2
+155246	The culmination of everyone 's efforts is given life when A Selection appears in its final form -LRB- in `` Last Dance '' -RRB- .	 		2
+155247	The culmination of everyone 's efforts	 		3
+155248	The culmination	 		2
+155249	culmination	 		2
+155250	of everyone 's efforts	 		2
+155251	everyone 's efforts	 		2
+155252	is given life when A Selection appears in its final form -LRB- in `` Last Dance '' -RRB- .	 		2
+155253	is given life when A Selection appears in its final form -LRB- in `` Last Dance '' -RRB-	 		3
+155254	given life when A Selection appears in its final form -LRB- in `` Last Dance '' -RRB-	 		2
+155255	given life	 		2
+155256	when A Selection appears in its final form -LRB- in `` Last Dance '' -RRB-	 		2
+155257	A Selection appears in its final form -LRB- in `` Last Dance '' -RRB-	 		2
+155258	appears in its final form -LRB- in `` Last Dance '' -RRB-	 		2
+155259	appears in its final form	 		2
+155260	in its final form	 		2
+155261	its final form	 		2
+155262	final form	 		2
+155263	-LRB- in `` Last Dance '' -RRB-	 		2
+155264	in `` Last Dance '' -RRB-	 		2
+155265	in `` Last Dance ''	 		2
+155266	`` Last Dance ''	 		2
+155267	Last Dance ''	 		2
+155268	Dance ''	 		2
+155269	It goes down easy , leaving virtually no aftertaste .	 		3
+155270	goes down easy , leaving virtually no aftertaste .	 		2
+155271	goes down easy , leaving virtually no aftertaste	 		2
+155272	goes down easy ,	 		2
+155273	goes down easy	 		1
+155274	goes down	 		2
+155275	leaving virtually no aftertaste	 		2
+155276	virtually no aftertaste	 		1
+155277	no aftertaste	 		2
+155278	Crossroads feels like a teenybopper Ed Wood film , replete with the pubescent scandalous innuendo and the high-strung but flaccid drama .	 		1
+155279	feels like a teenybopper Ed Wood film , replete with the pubescent scandalous innuendo and the high-strung but flaccid drama .	 		1
+155280	feels like a teenybopper Ed Wood film , replete with the pubescent scandalous innuendo and the high-strung but flaccid drama	 		1
+155281	like a teenybopper Ed Wood film , replete with the pubescent scandalous innuendo and the high-strung but flaccid drama	 		1
+155282	a teenybopper Ed Wood film , replete with the pubescent scandalous innuendo and the high-strung but flaccid drama	 		1
+155283	a teenybopper Ed Wood film , replete with the pubescent scandalous innuendo and	 		1
+155284	a teenybopper Ed Wood film , replete with the pubescent scandalous innuendo	 		1
+155285	a teenybopper Ed Wood film ,	 		3
+155286	a teenybopper Ed Wood film	 		2
+155287	teenybopper Ed Wood film	 		2
+155288	teenybopper	 		2
+155289	Ed Wood film	 		2
+155290	Wood film	 		2
+155291	replete with the pubescent scandalous innuendo	 		1
+155292	replete with the pubescent scandalous	 		1
+155293	with the pubescent scandalous	 		1
+155294	the pubescent scandalous	 		2
+155295	pubescent scandalous	 		2
+155296	pubescent	 		3
+155297	scandalous	 		2
+155298	the high-strung but flaccid drama	 		2
+155299	high-strung but flaccid drama	 		1
+155300	high-strung but flaccid	 		2
+155301	high-strung but	 		2
+155302	high-strung	 		1
+155303	Certainly beautiful to look at , but its not very informative about its titular character and no more challenging than your average television biopic .	 		2
+155304	Certainly beautiful	 		3
+155305	to look at , but its not very informative about its titular character and no more challenging than your average television biopic .	 		2
+155306	to look at , but its not very informative about its titular character and no more challenging than your average television biopic	 		2
+155307	look at , but its not very informative about its titular character and no more challenging than your average television biopic	 		1
+155308	at , but its not very informative about its titular character and no more challenging than your average television biopic	 		1
+155309	, but its not very informative about its titular character and no more challenging than your average television biopic	 		1
+155310	its not very informative about its titular character and no more challenging than your average television biopic	 		1
+155311	its not very informative about its titular character and	 		1
+155312	its not very informative about its titular character	 		2
+155313	not very informative about its titular character	 		1
+155314	not very informative about its titular	 		1
+155315	not very informative	 		2
+155316	very informative	 		4
+155317	about its titular	 		2
+155318	its titular	 		2
+155319	no more challenging than your average television biopic	 		1
+155320	more challenging than your average television biopic	 		2
+155321	more challenging than your average television	 		2
+155322	more challenging	 		2
+155323	than your average television	 		2
+155324	your average television	 		2
+155325	average television	 		1
+155326	Mike Leigh populates his movie with a wonderful ensemble cast of characters that bring the routine day to day struggles of the working class to life	 		4
+155327	Mike Leigh	 		2
+155328	populates his movie with a wonderful ensemble cast of characters that bring the routine day to day struggles of the working class to life	 		4
+155329	populates his movie	 		2
+155330	populates	 		2
+155331	with a wonderful ensemble cast of characters that bring the routine day to day struggles of the working class to life	 		3
+155332	a wonderful ensemble cast of characters that bring the routine day to day struggles of the working class to life	 		4
+155333	a wonderful ensemble cast	 		4
+155334	wonderful ensemble cast	 		4
+155335	of characters that bring the routine day to day struggles of the working class to life	 		3
+155336	characters that bring the routine day to day struggles of the working class to life	 		3
+155337	that bring the routine day to day struggles of the working class to life	 		3
+155338	bring the routine day to day struggles of the working class to life	 		3
+155339	the routine day to day struggles of the working class to life	 		2
+155340	the routine day to day	 		3
+155341	the routine day	 		2
+155342	routine day	 		2
+155343	to day	 		2
+155344	struggles of the working class to life	 		3
+155345	of the working class to life	 		2
+155346	the working class to life	 		3
+155347	the working class	 		2
+155348	working class	 		2
+155349	If you open yourself up to Mr. Reggio 's theory of this imagery as the movie 's set ... it can impart an almost visceral sense of dislocation and change .	 		3
+155350	If you open yourself up to Mr. Reggio 's theory of this imagery as the movie 's set	 		2
+155351	you open yourself up to Mr. Reggio 's theory of this imagery as the movie 's set	 		3
+155352	open yourself up to Mr. Reggio 's theory of this imagery as the movie 's set	 		3
+155353	open yourself up	 		2
+155354	open yourself	 		2
+155355	to Mr. Reggio 's theory of this imagery as the movie 's set	 		2
+155356	Mr. Reggio 's theory of this imagery as the movie 's set	 		2
+155357	Mr. Reggio 's theory	 		2
+155358	Mr. Reggio 's	 		2
+155359	of this imagery as the movie 's set	 		2
+155360	this imagery as the movie 's set	 		2
+155361	this imagery	 		2
+155362	as the movie 's set	 		2
+155363	the movie 's set	 		3
+155364	... it can impart an almost visceral sense of dislocation and change .	 		2
+155365	it can impart an almost visceral sense of dislocation and change .	 		3
+155366	can impart an almost visceral sense of dislocation and change .	 		3
+155367	can impart an almost visceral sense of dislocation and change	 		3
+155368	impart an almost visceral sense of dislocation and change	 		4
+155369	an almost visceral sense of dislocation and change	 		2
+155370	an almost visceral sense	 		2
+155371	almost visceral sense	 		2
+155372	almost visceral	 		2
+155373	of dislocation and change	 		2
+155374	dislocation and change	 		2
+155375	dislocation and	 		2
+155376	dislocation	 		1
+155377	Does not go far enough in its humor or stock ideas to stand out as particularly memorable or even all that funny .	 		1
+155378	Does not go far enough in its humor or stock ideas to stand out as particularly memorable or even all that funny	 		2
+155379	go far enough in its humor or stock ideas to stand out as particularly memorable or even all that funny	 		2
+155380	go far enough in its humor or stock ideas	 		2
+155381	go far enough	 		2
+155382	in its humor or stock ideas	 		2
+155383	its humor or stock ideas	 		2
+155384	humor or stock ideas	 		2
+155385	or stock ideas	 		2
+155386	stock ideas	 		2
+155387	to stand out as particularly memorable or even all that funny	 		1
+155388	stand out as particularly memorable or even all that funny	 		2
+155389	as particularly memorable or even all that funny	 		1
+155390	particularly memorable or even all that funny	 		1
+155391	particularly memorable or	 		2
+155392	even all that funny	 		2
+155393	all that funny	 		2
+155394	It 's refreshing to see a romance this smart .	 		3
+155395	's refreshing to see a romance this smart .	 		3
+155396	's refreshing to see a romance this smart	 		4
+155397	refreshing to see a romance this smart	 		3
+155398	to see a romance this smart	 		4
+155399	see a romance this smart	 		3
+155400	a romance this smart	 		3
+155401	this smart	 		3
+155402	Like the chilled breath of oral storytelling frozen onto film .	 		3
+155403	Like the chilled breath of oral storytelling frozen onto film	 		3
+155404	the chilled breath of oral storytelling frozen onto film	 		3
+155405	the chilled breath	 		2
+155406	chilled breath	 		2
+155407	chilled	 		2
+155408	of oral storytelling frozen onto film	 		3
+155409	oral storytelling frozen onto film	 		3
+155410	oral storytelling	 		2
+155411	frozen onto film	 		2
+155412	onto film	 		2
+155413	Shattering , devastating documentary on two maladjusted teens in a downward narcotized spiral .	 		3
+155414	, devastating documentary on two maladjusted teens in a downward narcotized spiral .	 		2
+155415	devastating documentary on two maladjusted teens in a downward narcotized spiral .	 		2
+155416	devastating documentary on two	 		2
+155417	devastating documentary	 		2
+155418	on two	 		2
+155419	maladjusted teens in a downward narcotized spiral .	 		1
+155420	maladjusted teens in a downward narcotized spiral	 		1
+155421	maladjusted teens	 		2
+155422	maladjusted	 		2
+155423	in a downward narcotized spiral	 		1
+155424	a downward narcotized spiral	 		1
+155425	downward narcotized spiral	 		2
+155426	narcotized spiral	 		2
+155427	narcotized	 		1
+155428	As exciting as all this exoticism might sound to the typical Pax viewer , the rest of us will be lulled into a coma .	 		1
+155429	As exciting as all this exoticism might sound to the typical Pax viewer	 		2
+155430	exciting as all this exoticism might sound to the typical Pax viewer	 		2
+155431	exciting as all this exoticism might sound to the typical Pax	 		2
+155432	as all this exoticism might sound to the typical Pax	 		2
+155433	all this exoticism might sound to the typical Pax	 		3
+155434	all this exoticism	 		2
+155435	this exoticism	 		2
+155436	might sound to the typical Pax	 		2
+155437	sound to the typical Pax	 		2
+155438	to the typical Pax	 		2
+155439	the typical Pax	 		2
+155440	typical Pax	 		1
+155441	Pax	 		2
+155442	, the rest of us will be lulled into a coma .	 		1
+155443	the rest of us will be lulled into a coma .	 		1
+155444	will be lulled into a coma .	 		1
+155445	will be lulled into a coma	 		1
+155446	be lulled into a coma	 		1
+155447	lulled into a coma	 		1
+155448	lulled	 		1
+155449	into a coma	 		2
+155450	a coma	 		1
+155451	The film is reasonably entertaining , though it begins to drag two-thirds through , when the melodramatic aspects start to overtake the comedy .	 		3
+155452	is reasonably entertaining , though it begins to drag two-thirds through , when the melodramatic aspects start to overtake the comedy .	 		3
+155453	is reasonably entertaining , though it begins to drag two-thirds through , when the melodramatic aspects start to overtake the comedy	 		2
+155454	is reasonably entertaining ,	 		3
+155455	is reasonably entertaining	 		3
+155456	though it begins to drag two-thirds through , when the melodramatic aspects start to overtake the comedy	 		1
+155457	it begins to drag two-thirds through , when the melodramatic aspects start to overtake the comedy	 		1
+155458	begins to drag two-thirds through , when the melodramatic aspects start to overtake the comedy	 		1
+155459	to drag two-thirds through , when the melodramatic aspects start to overtake the comedy	 		1
+155460	drag two-thirds through , when the melodramatic aspects start to overtake the comedy	 		2
+155461	drag two-thirds through ,	 		1
+155462	drag two-thirds through	 		1
+155463	drag two-thirds	 		2
+155464	when the melodramatic aspects start to overtake the comedy	 		2
+155465	the melodramatic aspects start to overtake the comedy	 		1
+155466	the melodramatic aspects	 		2
+155467	melodramatic aspects	 		2
+155468	start to overtake the comedy	 		2
+155469	to overtake the comedy	 		2
+155470	overtake the comedy	 		2
+155471	overtake	 		2
+155472	It never rises to its clever what-if concept .	 		1
+155473	never rises to its clever what-if concept .	 		1
+155474	rises to its clever what-if concept .	 		3
+155475	rises to its clever what-if concept	 		3
+155476	to its clever what-if concept	 		3
+155477	its clever what-if concept	 		2
+155478	clever what-if concept	 		2
+155479	what-if concept	 		2
+155480	Much has been written about those years when the psychedelic '60s grooved over into the gay '70s , but words do n't really do the era justice .	 		3
+155481	Much has been written about those years when the psychedelic '60s grooved over into the gay '70s , but words do n't really do the era justice	 		2
+155482	Much has been written about those years when the psychedelic '60s grooved over into the gay '70s , but	 		2
+155483	Much has been written about those years when the psychedelic '60s grooved over into the gay '70s ,	 		2
+155484	Much has been written about those years when the psychedelic '60s grooved over into the gay '70s	 		2
+155485	has been written about those years when the psychedelic '60s grooved over into the gay '70s	 		2
+155486	been written about those years when the psychedelic '60s grooved over into the gay '70s	 		2
+155487	written about those years when the psychedelic '60s grooved over into the gay '70s	 		2
+155488	written about those years	 		2
+155489	about those years	 		2
+155490	those years	 		2
+155491	when the psychedelic '60s grooved over into the gay '70s	 		2
+155492	the psychedelic '60s grooved over into the gay '70s	 		2
+155493	the psychedelic '60s	 		2
+155494	psychedelic '60s	 		2
+155495	grooved over into the gay '70s	 		2
+155496	grooved over	 		2
+155497	grooved	 		2
+155498	into the gay '70s	 		2
+155499	the gay '70s	 		3
+155500	gay '70s	 		2
+155501	words do n't really do the era justice	 		2
+155502	do n't really do the era justice	 		2
+155503	do the era justice	 		2
+155504	the era justice	 		2
+155505	era justice	 		2
+155506	A sly dissection of the inanities of the contemporary music business and a rather sad story of the difficulties of artistic collaboration .	 		2
+155507	A sly dissection of the inanities of the contemporary music business and a rather sad story of the difficulties of artistic collaboration	 		2
+155508	A sly dissection of the inanities of the contemporary music business and a rather sad story of the difficulties	 		2
+155509	A sly dissection	 		3
+155510	sly dissection	 		3
+155511	dissection	 		2
+155512	of the inanities of the contemporary music business and a rather sad story of the difficulties	 		2
+155513	the inanities of the contemporary music business and a rather sad story of the difficulties	 		1
+155514	the inanities of the contemporary music business and	 		2
+155515	the inanities of the contemporary music business	 		1
+155516	the inanities	 		2
+155517	inanities	 		1
+155518	of the contemporary music business	 		2
+155519	the contemporary music business	 		3
+155520	contemporary music business	 		2
+155521	a rather sad story of the difficulties	 		1
+155522	a rather sad story	 		1
+155523	rather sad story	 		2
+155524	rather sad	 		1
+155525	of the difficulties	 		2
+155526	the difficulties	 		1
+155527	of artistic collaboration	 		3
+155528	A gracious , eloquent film that by its end offers a ray of hope to the refugees able to look ahead and resist living in a past forever lost .	 		4
+155529	A gracious , eloquent film that by its end offers a ray of hope to the refugees able to look ahead and resist living in a past	 		3
+155530	A gracious , eloquent film	 		4
+155531	gracious , eloquent film	 		4
+155532	gracious	 		3
+155533	, eloquent film	 		3
+155534	eloquent film	 		3
+155535	that by its end offers a ray of hope to the refugees able to look ahead and resist living in a past	 		3
+155536	by its end offers a ray of hope to the refugees able to look ahead and resist living in a past	 		3
+155537	by its end	 		2
+155538	its end	 		2
+155539	offers a ray of hope to the refugees able to look ahead and resist living in a past	 		3
+155540	offers a ray of hope	 		3
+155541	a ray of hope	 		3
+155542	a ray	 		2
+155543	to the refugees able to look ahead and resist living in a past	 		2
+155544	the refugees able to look ahead and resist living in a past	 		3
+155545	the refugees	 		2
+155546	able to look ahead and resist living in a past	 		3
+155547	to look ahead and resist living in a past	 		2
+155548	look ahead and resist living in a past	 		3
+155549	look ahead and	 		2
+155550	look ahead	 		2
+155551	resist living in a past	 		2
+155552	living in a past	 		2
+155553	in a past	 		2
+155554	a past	 		2
+155555	forever lost .	 		2
+155556	lost .	 		1
+155557	Every conceivable mistake a director could make in filming opera has been perpetrated here .	 		1
+155558	Every conceivable mistake a director could make in filming opera	 		1
+155559	Every conceivable mistake	 		1
+155560	conceivable mistake	 		1
+155561	conceivable	 		3
+155562	a director could make in filming opera	 		2
+155563	could make in filming opera	 		2
+155564	make in filming opera	 		2
+155565	in filming opera	 		2
+155566	filming opera	 		2
+155567	has been perpetrated here .	 		2
+155568	has been perpetrated here	 		2
+155569	been perpetrated here	 		2
+155570	perpetrated here	 		2
+155571	It 's the kind of movie that , aside from Robert Altman , Spike Lee , the Coen Brothers and a few others , our moviemakers do n't make often enough .	 		4
+155572	's the kind of movie that , aside from Robert Altman , Spike Lee , the Coen Brothers and a few others , our moviemakers do n't make often enough .	 		4
+155573	's the kind of movie that , aside from Robert Altman , Spike Lee , the Coen Brothers and a few others , our moviemakers do n't make often enough	 		3
+155574	's the kind of movie	 		2
+155575	that , aside from Robert Altman , Spike Lee , the Coen Brothers and a few others , our moviemakers do n't make often enough	 		2
+155576	, aside from Robert Altman , Spike Lee , the Coen Brothers and a few others , our moviemakers do n't make often enough	 		2
+155577	, aside from Robert Altman , Spike Lee , the Coen Brothers and a few others ,	 		2
+155578	aside from Robert Altman , Spike Lee , the Coen Brothers and a few others ,	 		2
+155579	from Robert Altman , Spike Lee , the Coen Brothers and a few others ,	 		2
+155580	from Robert Altman , Spike Lee , the Coen Brothers and a few others	 		2
+155581	Robert Altman , Spike Lee , the Coen Brothers and a few others	 		2
+155582	Robert Altman , Spike Lee , the Coen Brothers and	 		2
+155583	Robert Altman , Spike Lee , the Coen Brothers	 		2
+155584	Robert Altman , Spike Lee ,	 		2
+155585	Robert Altman , Spike Lee	 		2
+155586	Robert Altman ,	 		2
+155587	Robert Altman	 		2
+155588	a few others	 		2
+155589	few others	 		2
+155590	our moviemakers do n't make often enough	 		2
+155591	our moviemakers	 		3
+155592	do n't make often enough	 		2
+155593	make often enough	 		2
+155594	Williams creates a stunning , Taxi Driver-esque portrayal of a man teetering on the edge of sanity .	 		4
+155595	creates a stunning , Taxi Driver-esque portrayal of a man teetering on the edge of sanity .	 		4
+155596	creates a stunning , Taxi Driver-esque portrayal of a man teetering on the edge of sanity	 		3
+155597	a stunning , Taxi Driver-esque portrayal of a man teetering on the edge of sanity	 		4
+155598	a stunning , Taxi Driver-esque portrayal	 		4
+155599	stunning , Taxi Driver-esque portrayal	 		4
+155600	, Taxi Driver-esque portrayal	 		2
+155601	Taxi Driver-esque portrayal	 		2
+155602	Taxi	 		2
+155603	Driver-esque portrayal	 		2
+155604	Driver-esque	 		2
+155605	of a man teetering on the edge of sanity	 		2
+155606	a man teetering on the edge of sanity	 		2
+155607	teetering on the edge of sanity	 		1
+155608	teetering	 		2
+155609	on the edge of sanity	 		2
+155610	the edge of sanity	 		1
+155611	of sanity	 		2
+155612	sanity	 		2
+155613	Campbell Scott finds the ideal outlet for his flick-knife diction in the role of Roger Swanson .	 		3
+155614	Campbell Scott	 		2
+155615	Campbell	 		2
+155616	finds the ideal outlet for his flick-knife diction in the role of Roger Swanson .	 		3
+155617	finds the ideal outlet for his flick-knife diction in the role of Roger Swanson	 		3
+155618	the ideal outlet for his flick-knife diction in the role of Roger Swanson	 		3
+155619	the ideal outlet	 		3
+155620	ideal outlet	 		3
+155621	outlet	 		2
+155622	for his flick-knife diction in the role of Roger Swanson	 		2
+155623	his flick-knife diction in the role of Roger Swanson	 		3
+155624	his flick-knife diction	 		2
+155625	flick-knife diction	 		2
+155626	flick-knife	 		2
+155627	diction	 		2
+155628	in the role of Roger Swanson	 		2
+155629	the role of Roger Swanson	 		2
+155630	of Roger Swanson	 		2
+155631	Roger Swanson	 		2
+155632	Swanson	 		2
+155633	Has a certain ghoulish fascination , and generates a fair amount of B-movie excitement .	 		3
+155634	Has a certain ghoulish fascination , and generates a fair amount of B-movie excitement	 		3
+155635	Has a certain ghoulish	 		2
+155636	a certain ghoulish	 		2
+155637	certain ghoulish	 		2
+155638	ghoulish	 		2
+155639	fascination , and generates a fair amount of B-movie excitement	 		3
+155640	fascination , and	 		3
+155641	fascination ,	 		3
+155642	generates a fair amount of B-movie excitement	 		2
+155643	a fair amount of B-movie excitement	 		3
+155644	of B-movie excitement	 		3
+155645	B-movie excitement	 		2
+155646	With its parade of almost perpetually wasted characters ... Margarita feels like a hazy high that takes too long to shake .	 		1
+155647	With its parade of almost perpetually wasted characters	 		1
+155648	its parade of almost perpetually wasted characters	 		1
+155649	of almost perpetually wasted characters	 		1
+155650	almost perpetually wasted characters	 		1
+155651	almost perpetually wasted	 		1
+155652	perpetually wasted	 		1
+155653	perpetually	 		2
+155654	... Margarita feels like a hazy high that takes too long to shake .	 		1
+155655	Margarita feels like a hazy high that takes too long to shake .	 		1
+155656	feels like a hazy high that takes too long to shake .	 		1
+155657	feels like a hazy high that takes too long to shake	 		1
+155658	like a hazy high that takes too long to shake	 		1
+155659	a hazy high that takes too long to shake	 		2
+155660	a hazy high	 		3
+155661	hazy high	 		3
+155662	hazy	 		1
+155663	that takes too long to shake	 		1
+155664	takes too long to shake	 		1
+155665	too long to shake	 		1
+155666	long to shake	 		2
+155667	Bolstered by an astonishing voice cast -LRB- excepting Love Hewitt -RRB- , an interesting racial tension , and a storyline that I have n't encountered since at least Pete 's Dragon .	 		3
+155668	Bolstered by an astonishing voice cast -LRB- excepting Love Hewitt -RRB- , an interesting racial tension , and a storyline that I have n't encountered since at least Pete 's Dragon	 		3
+155669	Bolstered by an astonishing voice cast -LRB- excepting Love Hewitt -RRB- , an interesting racial tension , and a storyline	 		3
+155670	by an astonishing voice cast -LRB- excepting Love Hewitt -RRB- , an interesting racial tension , and a storyline	 		4
+155671	an astonishing voice cast -LRB- excepting Love Hewitt -RRB- , an interesting racial tension , and a storyline	 		3
+155672	an astonishing voice cast -LRB- excepting Love Hewitt -RRB- , an interesting racial tension , and	 		3
+155673	an astonishing voice cast -LRB- excepting Love Hewitt -RRB- , an interesting racial tension ,	 		2
+155674	an astonishing voice cast -LRB- excepting Love Hewitt -RRB- , an interesting racial tension	 		3
+155675	an astonishing voice cast -LRB- excepting Love Hewitt -RRB- ,	 		3
+155676	an astonishing voice cast -LRB- excepting Love Hewitt -RRB-	 		3
+155677	an astonishing voice cast	 		4
+155678	astonishing voice cast	 		3
+155679	voice cast	 		2
+155680	-LRB- excepting Love Hewitt -RRB-	 		2
+155681	excepting Love Hewitt -RRB-	 		2
+155682	excepting Love Hewitt	 		2
+155683	excepting	 		2
+155684	an interesting racial tension	 		3
+155685	interesting racial tension	 		2
+155686	that I have n't encountered since at least Pete 's Dragon	 		2
+155687	I have n't encountered since at least Pete 's Dragon	 		2
+155688	have n't encountered since at least Pete 's Dragon	 		2
+155689	encountered since at least Pete 's Dragon	 		2
+155690	encountered	 		2
+155691	since at least Pete 's Dragon	 		2
+155692	at least Pete 's Dragon	 		2
+155693	at least Pete 's	 		2
+155694	A witty , whimsical feature debut .	 		3
+155695	A witty , whimsical feature debut	 		4
+155696	A witty , whimsical feature	 		3
+155697	witty , whimsical feature	 		4
+155698	, whimsical feature	 		3
+155699	whimsical feature	 		2
+155700	Exhilarating , funny and fun .	 		4
+155701	Exhilarating , funny and fun	 		4
+155702	Exhilarating ,	 		4
+155703	funny and fun	 		3
+155704	As an entertainment destination for the general public , Kung Pow sets a new benchmark for lameness .	 		1
+155705	As an entertainment destination for the general public	 		3
+155706	an entertainment destination for the general public	 		4
+155707	an entertainment destination	 		3
+155708	entertainment destination	 		2
+155709	for the general public	 		2
+155710	the general public	 		2
+155711	general public	 		2
+155712	, Kung Pow sets a new benchmark for lameness .	 		1
+155713	Kung Pow sets a new benchmark for lameness .	 		1
+155714	sets a new benchmark for lameness .	 		1
+155715	sets a new benchmark for lameness	 		1
+155716	a new benchmark for lameness	 		1
+155717	a new benchmark	 		2
+155718	new benchmark	 		3
+155719	benchmark	 		2
+155720	for lameness	 		1
+155721	lameness	 		1
+155722	Downbeat , period-perfect biopic hammers home a heavy-handed moralistic message .	 		3
+155723	Downbeat , period-perfect biopic hammers home a heavy-handed moralistic message	 		1
+155724	Downbeat , period-perfect biopic hammers	 		2
+155725	, period-perfect biopic hammers	 		3
+155726	period-perfect biopic hammers	 		2
+155727	period-perfect	 		3
+155728	biopic hammers	 		2
+155729	hammers	 		2
+155730	home a heavy-handed moralistic message	 		2
+155731	a heavy-handed moralistic message	 		2
+155732	heavy-handed moralistic message	 		2
+155733	heavy-handed moralistic	 		1
+155734	None of this so-called satire has any sting to it , as if Woody is afraid of biting the hand that has finally , to some extent , warmed up to him .	 		1
+155735	None of this so-called satire	 		2
+155736	of this so-called satire	 		1
+155737	this so-called satire	 		1
+155738	so-called satire	 		1
+155739	has any sting to it , as if Woody is afraid of biting the hand that has finally , to some extent , warmed up to him .	 		2
+155740	has any sting to it , as if Woody is afraid of biting the hand that has finally , to some extent , warmed up to him	 		2
+155741	has any sting to it ,	 		2
+155742	has any sting to it	 		3
+155743	has any sting	 		2
+155744	any sting	 		2
+155745	as if Woody is afraid of biting the hand that has finally , to some extent , warmed up to him	 		2
+155746	if Woody is afraid of biting the hand that has finally , to some extent , warmed up to him	 		2
+155747	Woody is afraid of biting the hand that has finally , to some extent , warmed up to him	 		2
+155748	is afraid of biting the hand that has finally , to some extent , warmed up to him	 		2
+155749	afraid of biting the hand that has finally , to some extent , warmed up to him	 		2
+155750	of biting the hand that has finally , to some extent , warmed up to him	 		1
+155751	biting the hand that has finally , to some extent , warmed up to him	 		2
+155752	the hand that has finally , to some extent , warmed up to him	 		3
+155753	the hand	 		2
+155754	that has finally , to some extent , warmed up to him	 		3
+155755	has finally , to some extent , warmed up to him	 		3
+155756	has finally , to some extent ,	 		2
+155757	finally , to some extent ,	 		2
+155758	, to some extent ,	 		2
+155759	to some extent ,	 		2
+155760	to some extent	 		2
+155761	some extent	 		2
+155762	warmed up to him	 		3
+155763	warmed up	 		2
+155764	to him	 		2
+155765	The Santa Clause 2 is a barely adequate babysitter for older kids , but I 've got to give it thumbs down .	 		2
+155766	The Santa Clause 2 is a barely adequate babysitter for older kids , but I 've got to give it thumbs down	 		1
+155767	The Santa Clause 2 is a barely adequate babysitter for older kids , but	 		1
+155768	The Santa Clause 2 is a barely adequate babysitter for older kids ,	 		1
+155769	The Santa Clause 2 is a barely adequate babysitter for older kids	 		1
+155770	is a barely adequate babysitter for older kids	 		1
+155771	a barely adequate babysitter for older kids	 		1
+155772	a barely adequate babysitter	 		1
+155773	barely adequate babysitter	 		1
+155774	barely adequate	 		3
+155775	I 've got to give it thumbs down	 		1
+155776	've got to give it thumbs down	 		1
+155777	got to give it thumbs down	 		1
+155778	to give it thumbs down	 		1
+155779	give it thumbs down	 		1
+155780	it thumbs down	 		1
+155781	Sometimes there are very , very good reasons for certain movies to be sealed in a jar and left on a remote shelf indefinitely .	 		1
+155782	there are very , very good reasons for certain movies to be sealed in a jar and left on a remote shelf indefinitely .	 		1
+155783	are very , very good reasons for certain movies to be sealed in a jar and left on a remote shelf indefinitely .	 		1
+155784	are very , very good reasons for certain movies to be sealed in a jar and left on a remote shelf indefinitely	 		1
+155785	are very , very good reasons for certain movies	 		3
+155786	are very , very good reasons	 		4
+155787	very , very good reasons	 		3
+155788	for certain movies	 		2
+155789	certain movies	 		2
+155790	to be sealed in a jar and left on a remote shelf indefinitely	 		1
+155791	be sealed in a jar and left on a remote shelf indefinitely	 		1
+155792	sealed in a jar and left on a remote shelf indefinitely	 		1
+155793	sealed in a jar and	 		2
+155794	sealed in a jar	 		1
+155795	in a jar	 		2
+155796	a jar	 		2
+155797	left on a remote shelf indefinitely	 		1
+155798	left on a remote shelf	 		1
+155799	on a remote shelf	 		2
+155800	a remote shelf	 		3
+155801	remote shelf	 		2
+155802	indefinitely	 		2
+155803	It makes you believe the cast and crew thoroughly enjoyed themselves and believed in their small-budget film .	 		3
+155804	makes you believe the cast and crew thoroughly enjoyed themselves and believed in their small-budget film .	 		4
+155805	makes you believe the cast and crew thoroughly enjoyed themselves and believed in their small-budget film	 		3
+155806	you believe the cast and crew thoroughly enjoyed themselves and believed in their small-budget film	 		3
+155807	believe the cast and crew thoroughly enjoyed themselves and believed in their small-budget film	 		3
+155808	the cast and crew thoroughly enjoyed themselves and believed in their small-budget film	 		3
+155809	thoroughly enjoyed themselves and believed in their small-budget film	 		4
+155810	thoroughly enjoyed themselves and	 		3
+155811	thoroughly enjoyed themselves	 		3
+155812	enjoyed themselves	 		3
+155813	believed in their small-budget film	 		3
+155814	believed	 		2
+155815	in their small-budget film	 		2
+155816	their small-budget film	 		2
+155817	small-budget film	 		2
+155818	small-budget	 		1
+155819	The underworld urban angst is derivative of Martin Scorsese 's Taxi Driver and Goodfellas , but this film speaks for itself .	 		3
+155820	The underworld urban angst is derivative of Martin Scorsese 's Taxi Driver and Goodfellas , but this film speaks for itself	 		3
+155821	The underworld urban angst is derivative of Martin Scorsese 's Taxi Driver and Goodfellas , but	 		2
+155822	The underworld urban angst is derivative of Martin Scorsese 's Taxi Driver and Goodfellas ,	 		2
+155823	The underworld urban angst is derivative of Martin Scorsese 's Taxi Driver and Goodfellas	 		2
+155824	The underworld urban angst	 		2
+155825	underworld urban angst	 		2
+155826	underworld	 		2
+155827	urban angst	 		2
+155828	is derivative of Martin Scorsese 's Taxi Driver and Goodfellas	 		2
+155829	derivative of Martin Scorsese 's Taxi Driver and Goodfellas	 		2
+155830	of Martin Scorsese 's Taxi Driver and Goodfellas	 		3
+155831	Martin Scorsese 's Taxi Driver and Goodfellas	 		2
+155832	Taxi Driver and Goodfellas	 		2
+155833	Driver and Goodfellas	 		3
+155834	Driver and	 		2
+155835	this film speaks for itself	 		3
+155836	speaks for itself	 		3
+155837	Even if you have no interest in the gang-infested , East-vs .	 		2
+155838	Even if you have no interest in the gang-infested	 		2
+155839	if you have no interest in the gang-infested	 		1
+155840	you have no interest in the gang-infested	 		1
+155841	have no interest in the gang-infested	 		1
+155842	no interest in the gang-infested	 		1
+155843	no interest	 		1
+155844	in the gang-infested	 		2
+155845	the gang-infested	 		1
+155846	gang-infested	 		1
+155847	, East-vs .	 		2
+155848	East-vs .	 		2
+155849	East-vs	 		2
+155850	The film does n't really care about the thousands of Americans who die hideously , it cares about how Ryan meets his future wife and makes his start at the CIA .	 		1
+155851	The film does n't really care about the thousands of Americans who die hideously	 		1
+155852	does n't really care about the thousands of Americans who die hideously	 		1
+155853	care about the thousands of Americans who die hideously	 		2
+155854	about the thousands of Americans who die hideously	 		1
+155855	the thousands of Americans who die hideously	 		1
+155856	the thousands of Americans	 		2
+155857	of Americans	 		2
+155858	who die hideously	 		1
+155859	die hideously	 		1
+155860	, it cares about how Ryan meets his future wife and makes his start at the CIA .	 		2
+155861	it cares about how Ryan meets his future wife and makes his start at the CIA .	 		2
+155862	cares about how Ryan meets his future wife and makes his start at the CIA .	 		2
+155863	cares about how Ryan meets his future wife and makes his start at the CIA	 		2
+155864	about how Ryan meets his future wife and makes his start at the CIA	 		2
+155865	how Ryan meets his future wife and makes his start at the CIA	 		2
+155866	Ryan meets his future wife and makes his start at the CIA	 		2
+155867	meets his future wife and makes his start at the CIA	 		2
+155868	meets his future wife and	 		2
+155869	meets his future wife	 		3
+155870	his future wife	 		3
+155871	future wife	 		2
+155872	makes his start at the CIA	 		2
+155873	makes his start	 		2
+155874	his start	 		2
+155875	at the CIA	 		2
+155876	the CIA	 		2
+155877	Proves a servicable World War II drama that ca n't totally hide its contrivances , but it at least calls attention to a problem Hollywood too long has ignored .	 		3
+155878	Proves a servicable World War II drama that ca n't totally hide its contrivances	 		3
+155879	a servicable World War II drama that ca n't totally hide its contrivances	 		2
+155880	a servicable World War II drama	 		3
+155881	servicable World War II drama	 		3
+155882	servicable World War II	 		2
+155883	servicable World War	 		2
+155884	servicable World	 		2
+155885	servicable	 		2
+155886	that ca n't totally hide its contrivances	 		1
+155887	ca n't totally hide its contrivances	 		2
+155888	ca n't totally	 		2
+155889	hide its contrivances	 		1
+155890	, but it at least calls attention to a problem Hollywood too long has ignored .	 		3
+155891	, but it at least calls attention to a problem Hollywood too long has ignored	 		2
+155892	it at least calls attention to a problem Hollywood too long has ignored	 		3
+155893	at least calls attention to a problem Hollywood too long has ignored	 		2
+155894	calls attention to a problem Hollywood too long has ignored	 		3
+155895	calls attention	 		2
+155896	to a problem Hollywood too long has ignored	 		3
+155897	a problem Hollywood too long has ignored	 		1
+155898	Hollywood too long has ignored	 		1
+155899	too long has ignored	 		1
+155900	has ignored	 		2
+155901	This movie ... does n't deserve the energy it takes to describe how bad it is .	 		1
+155902	... does n't deserve the energy it takes to describe how bad it is .	 		1
+155903	does n't deserve the energy it takes to describe how bad it is .	 		1
+155904	does n't deserve the energy it takes to describe how bad it is	 		1
+155905	deserve the energy it takes to describe how bad it is	 		1
+155906	the energy it takes to describe how bad it is	 		1
+155907	it takes to describe how bad it is	 		1
+155908	takes to describe how bad it is	 		1
+155909	to describe how bad it is	 		1
+155910	describe how bad it is	 		1
+155911	how bad it is	 		1
+155912	In this case zero .	 		1
+155913	case zero .	 		1
+155914	zero .	 		1
+155915	Simply put , there should have been a more compelling excuse to pair Susan Sarandon and Goldie Hawn .	 		1
+155916	, there should have been a more compelling excuse to pair Susan Sarandon and Goldie Hawn .	 		2
+155917	there should have been a more compelling excuse to pair Susan Sarandon and Goldie Hawn .	 		2
+155918	should have been a more compelling excuse to pair Susan Sarandon and Goldie Hawn .	 		1
+155919	should have been a more compelling excuse to pair Susan Sarandon and Goldie Hawn	 		1
+155920	have been a more compelling excuse to pair Susan Sarandon and Goldie Hawn	 		2
+155921	been a more compelling excuse to pair Susan Sarandon and Goldie Hawn	 		3
+155922	a more compelling excuse to pair Susan Sarandon and Goldie Hawn	 		2
+155923	more compelling excuse to pair Susan Sarandon and Goldie Hawn	 		1
+155924	excuse to pair Susan Sarandon and Goldie Hawn	 		2
+155925	to pair Susan Sarandon and Goldie Hawn	 		2
+155926	pair Susan Sarandon and Goldie Hawn	 		2
+155927	Susan Sarandon and Goldie Hawn	 		2
+155928	Susan Sarandon and	 		2
+155929	Goldie Hawn	 		3
+155930	Goldie	 		2
+155931	Definitely in the guilty pleasure B-movie category , Reign of Fire is so incredibly inane that it is laughingly enjoyable .	 		3
+155932	Definitely in the guilty pleasure B-movie category	 		3
+155933	in the guilty pleasure B-movie category	 		2
+155934	the guilty pleasure B-movie category	 		2
+155935	guilty pleasure B-movie category	 		2
+155936	pleasure B-movie category	 		2
+155937	B-movie category	 		1
+155938	, Reign of Fire is so incredibly inane that it is laughingly enjoyable .	 		2
+155939	Reign of Fire is so incredibly inane that it is laughingly enjoyable .	 		3
+155940	is so incredibly inane that it is laughingly enjoyable .	 		2
+155941	is so incredibly inane that it is laughingly enjoyable	 		2
+155942	is so incredibly inane	 		1
+155943	so incredibly inane	 		1
+155944	incredibly inane	 		1
+155945	that it is laughingly enjoyable	 		3
+155946	it is laughingly enjoyable	 		3
+155947	is laughingly enjoyable	 		4
+155948	is laughingly	 		1
+155949	laughingly	 		3
+155950	It 's an experience in understanding a unique culture that is presented with universal appeal .	 		3
+155951	's an experience in understanding a unique culture that is presented with universal appeal .	 		3
+155952	's an experience in understanding a unique culture that is presented with universal appeal	 		3
+155953	an experience in understanding a unique culture that is presented with universal appeal	 		3
+155954	in understanding a unique culture that is presented with universal appeal	 		3
+155955	understanding a unique culture that is presented with universal appeal	 		3
+155956	a unique culture that is presented with universal appeal	 		4
+155957	a unique culture	 		3
+155958	unique culture	 		3
+155959	that is presented with universal appeal	 		3
+155960	is presented with universal appeal	 		3
+155961	presented with universal appeal	 		3
+155962	with universal appeal	 		4
+155963	universal appeal	 		3
+155964	The French director has turned out nearly 21\/2 hours of unfocused , excruciatingly tedious cinema that , half an hour in , starts making water torture seem appealing .	 		1
+155965	The French director	 		2
+155966	has turned out nearly 21\/2 hours of unfocused , excruciatingly tedious cinema that , half an hour in , starts making water torture seem appealing .	 		1
+155967	has turned out nearly 21\/2 hours of unfocused , excruciatingly tedious cinema that , half an hour in , starts making water torture seem appealing	 		1
+155968	turned out nearly 21\/2 hours of unfocused , excruciatingly tedious cinema that , half an hour in , starts making water torture seem appealing	 		1
+155969	turned out nearly 21\/2 hours of unfocused , excruciatingly tedious cinema	 		1
+155970	nearly 21\/2 hours of unfocused , excruciatingly tedious cinema	 		1
+155971	of unfocused , excruciatingly tedious cinema	 		1
+155972	unfocused , excruciatingly tedious cinema	 		1
+155973	unfocused , excruciatingly tedious	 		1
+155974	, excruciatingly tedious	 		1
+155975	excruciatingly tedious	 		1
+155976	that , half an hour in , starts making water torture seem appealing	 		1
+155977	that , half an hour in ,	 		2
+155978	that , half an hour in	 		2
+155979	half an hour in	 		2
+155980	starts making water torture seem appealing	 		1
+155981	making water torture seem appealing	 		2
+155982	water torture seem appealing	 		1
+155983	water torture	 		1
+155984	seem appealing	 		3
+155985	... either you 're willing to go with this claustrophobic concept or you 're not .	 		2
+155986	either you 're willing to go with this claustrophobic concept or you 're not .	 		2
+155987	either you 're willing to go with this claustrophobic concept or you 're not	 		2
+155988	either you 're willing to go with this claustrophobic concept or	 		2
+155989	either you 're willing to go with this claustrophobic concept	 		1
+155990	you 're willing to go with this claustrophobic concept	 		2
+155991	're willing to go with this claustrophobic concept	 		2
+155992	willing to go with this claustrophobic concept	 		1
+155993	to go with this claustrophobic concept	 		1
+155994	go with this claustrophobic concept	 		1
+155995	with this claustrophobic concept	 		2
+155996	this claustrophobic concept	 		1
+155997	claustrophobic concept	 		1
+155998	Despite these annoyances , the capable Clayburgh and Tambor really do a great job of anchoring the characters in the emotional realities of middle age .	 		2
+155999	Despite these annoyances	 		2
+156000	these annoyances	 		1
+156001	annoyances	 		2
+156002	, the capable Clayburgh and Tambor really do a great job of anchoring the characters in the emotional realities of middle age .	 		3
+156003	the capable Clayburgh and Tambor really do a great job of anchoring the characters in the emotional realities of middle age .	 		3
+156004	the capable Clayburgh and Tambor	 		2
+156005	the capable Clayburgh and	 		2
+156006	the capable Clayburgh	 		3
+156007	capable Clayburgh	 		1
+156008	really do a great job of anchoring the characters in the emotional realities of middle age .	 		4
+156009	do a great job of anchoring the characters in the emotional realities of middle age .	 		3
+156010	do a great job of anchoring the characters in the emotional realities of middle age	 		3
+156011	a great job of anchoring the characters in the emotional realities of middle age	 		4
+156012	a great job	 		3
+156013	great job	 		3
+156014	of anchoring the characters in the emotional realities of middle age	 		2
+156015	anchoring the characters in the emotional realities of middle age	 		3
+156016	anchoring the characters	 		2
+156017	in the emotional realities of middle age	 		2
+156018	the emotional realities of middle age	 		2
+156019	the emotional realities	 		2
+156020	emotional realities	 		2
+156021	of middle age	 		2
+156022	-LRB- Tries -RRB- to parody a genre that 's already a joke in the United States .	 		1
+156023	-LRB- Tries -RRB- to parody	 		1
+156024	-LRB- Tries -RRB-	 		3
+156025	Tries -RRB-	 		2
+156026	to parody	 		2
+156027	a genre that 's already a joke in the United States .	 		1
+156028	a genre that	 		2
+156029	's already a joke in the United States .	 		1
+156030	's already a joke in the United States	 		1
+156031	a joke in the United States	 		2
+156032	The movie 's downfall is to substitute plot for personality .	 		1
+156033	The movie 's downfall	 		1
+156034	is to substitute plot for personality .	 		1
+156035	is to substitute plot for personality	 		1
+156036	to substitute plot for personality	 		2
+156037	substitute plot for personality	 		1
+156038	substitute plot	 		2
+156039	for personality	 		2
+156040	The film is darkly atmospheric , with Herrmann quietly suggesting the sadness and obsession beneath Hearst 's forced avuncular chortles .	 		2
+156041	is darkly atmospheric , with Herrmann quietly suggesting the sadness and obsession beneath Hearst 's forced avuncular chortles .	 		2
+156042	is darkly atmospheric , with Herrmann quietly suggesting the sadness and obsession beneath Hearst 's forced avuncular chortles	 		2
+156043	is darkly atmospheric ,	 		2
+156044	is darkly atmospheric	 		3
+156045	with Herrmann quietly suggesting the sadness and obsession beneath Hearst 's forced avuncular chortles	 		2
+156046	Herrmann quietly suggesting the sadness and obsession beneath Hearst 's forced avuncular chortles	 		2
+156047	Herrmann	 		2
+156048	quietly suggesting the sadness and obsession beneath Hearst 's forced avuncular chortles	 		1
+156049	suggesting the sadness and obsession beneath Hearst 's forced avuncular chortles	 		2
+156050	suggesting the sadness and obsession	 		2
+156051	the sadness and obsession	 		2
+156052	sadness and obsession	 		1
+156053	sadness and	 		1
+156054	beneath Hearst 's forced avuncular chortles	 		2
+156055	Hearst 's forced avuncular chortles	 		2
+156056	Hearst 's	 		2
+156057	forced avuncular chortles	 		1
+156058	avuncular chortles	 		3
+156059	avuncular	 		2
+156060	chortles	 		2
+154000	to bring Kissinger to trial for crimes against humanity	 	 	2
+154001	bring Kissinger to trial for crimes against humanity	 	 	2
+154002	bring Kissinger	 	 	2
+154003	to trial for crimes against humanity	 	 	2
+154004	trial for crimes against humanity	 	 	1
+154005	for crimes against humanity	 	 	3
+154006	crimes against humanity	 	 	1
+154007	against humanity	 	 	1
+154008	Intelligent , caustic take on a great writer and dubious human being .	 	 	3
+154009	Intelligent , caustic	 	 	3
+154010	, caustic	 	 	2
+154011	take on a great writer and dubious human being .	 	 	2
+154012	take on a great writer and dubious human being	 	 	3
+154013	on a great writer and dubious human being	 	 	2
+154014	a great writer and dubious human being	 	 	3
+154015	a great writer and	 	 	3
+154016	a great writer	 	 	3
+154017	great writer	 	 	4
+154018	dubious human being	 	 	1
+154019	The whole mildly pleasant outing -- the R rating is for brief nudity and a grisly corpse -- remains aloft not on its own self-referential hot air , but on the inspired performance of Tim Allen .	 	 	2
+154020	The whole mildly pleasant outing -- the R rating is for brief nudity and a grisly corpse --	 	 	3
+154021	The whole mildly pleasant outing	 	 	3
+154022	whole mildly pleasant outing	 	 	3
+154023	mildly pleasant outing	 	 	3
+154024	mildly pleasant	 	 	3
+154025	-- the R rating is for brief nudity and a grisly corpse --	 	 	2
+154026	the R rating is for brief nudity and a grisly corpse --	 	 	1
+154027	the R rating is for brief nudity and a grisly corpse	 	 	1
+154028	the R rating	 	 	2
+154029	R rating	 	 	2
+154030	is for brief nudity and a grisly corpse	 	 	2
+154031	for brief nudity and a grisly corpse	 	 	1
+154032	brief nudity and a grisly corpse	 	 	2
+154033	brief nudity and	 	 	2
+154034	brief nudity	 	 	2
+154035	a grisly corpse	 	 	1
+154036	grisly corpse	 	 	1
+154037	remains aloft not on its own self-referential hot air , but on the inspired performance of Tim Allen .	 	 	3
+154038	remains aloft not on its own self-referential hot air , but on the inspired performance of Tim Allen	 	 	3
+154039	remains aloft	 	 	2
+154040	aloft	 	 	2
+154041	not on its own self-referential hot air , but on the inspired performance of Tim Allen	 	 	3
+154042	on its own self-referential hot air , but on the inspired performance of Tim Allen	 	 	3
+154043	on its own self-referential hot air	 	 	1
+154044	its own self-referential hot air	 	 	2
+154045	own self-referential hot air	 	 	1
+154046	self-referential hot air	 	 	1
+154047	self-referential	 	 	2
+154048	hot air	 	 	1
+154049	, but on the inspired performance of Tim Allen	 	 	3
+154050	on the inspired performance of Tim Allen	 	 	2
+154051	the inspired performance of Tim Allen	 	 	4
+154052	the inspired performance	 	 	4
+154053	inspired performance	 	 	4
+154054	of Tim Allen	 	 	2
+154055	Tim Allen	 	 	2
+154056	Gondry 's direction is adequate ... but what gives Human Nature its unique feel is Kaufman 's script .	 	 	3
+154057	Gondry 's direction is adequate ... but what gives Human Nature its unique feel is Kaufman 's script	 	 	3
+154058	Gondry 's direction is adequate ...	 	 	2
+154059	Gondry 's direction is adequate	 	 	3
+154060	Gondry 's direction	 	 	2
+154061	Gondry 's	 	 	2
+154062	is adequate	 	 	3
+154063	but what gives Human Nature its unique feel is Kaufman 's script	 	 	3
+154064	what gives Human Nature its unique feel is Kaufman 's script	 	 	3
+154065	what gives Human Nature its unique feel	 	 	3
+154066	gives Human Nature its unique feel	 	 	3
+154067	gives Human Nature	 	 	2
+154068	its unique feel	 	 	3
+154069	unique feel	 	 	3
+154070	is Kaufman 's script	 	 	2
+154071	This is a shrewd and effective film from a director who understands how to create and sustain a mood .	 	 	3
+154072	is a shrewd and effective film from a director who understands how to create and sustain a mood .	 	 	3
+154073	is a shrewd and effective film from a director who understands how to create and sustain a mood	 	 	3
+154074	a shrewd and effective film from a director who understands how to create and sustain a mood	 	 	3
+154075	a shrewd and effective film	 	 	3
+154076	shrewd and effective film	 	 	3
+154077	and effective film	 	 	3
+154078	effective film	 	 	4
+154079	from a director who understands how to create and sustain a mood	 	 	3
+154080	a director who understands how to create and sustain a mood	 	 	4
+154081	who understands how to create and sustain a mood	 	 	3
+154082	understands how to create and sustain a mood	 	 	4
+154083	how to create and sustain a mood	 	 	2
+154084	to create and sustain a mood	 	 	2
+154085	create and sustain a mood	 	 	3
+154086	create and sustain	 	 	3
+154087	create and	 	 	2
+154088	If you can swallow its absurdities and crudities Lagaan really is enormously good fun .	 	 	3
+154089	If you can swallow its absurdities and crudities	 	 	1
+154090	you can swallow its absurdities and crudities	 	 	2
+154091	can swallow its absurdities and crudities	 	 	2
+154092	swallow its absurdities and crudities	 	 	1
+154093	its absurdities and crudities	 	 	1
+154094	absurdities and crudities	 	 	2
+154095	crudities	 	 	2
+154096	Lagaan really is enormously good fun .	 	 	4
+154097	really is enormously good fun .	 	 	4
+154098	is enormously good fun .	 	 	4
+154099	is enormously good fun	 	 	4
+154100	enormously good fun	 	 	4
+154101	enormously good	 	 	4
+154102	Cheap , vulgar dialogue and a plot that crawls along at a snail 's pace .	 	 	1
+154103	Cheap , vulgar dialogue and a plot that crawls along at a snail 's pace	 	 	1
+154104	Cheap ,	 	 	1
+154105	vulgar dialogue and a plot that crawls along at a snail 's pace	 	 	1
+154106	vulgar dialogue and	 	 	1
+154107	vulgar dialogue	 	 	1
+154108	a plot that crawls along at a snail 's pace	 	 	1
+154109	that crawls along at a snail 's pace	 	 	1
+154110	crawls along at a snail 's pace	 	 	1
+154111	crawls along	 	 	1
+154112	crawls	 	 	2
+154113	at a snail 's pace	 	 	3
+154114	a snail 's pace	 	 	1
+154115	a snail 's	 	 	2
+154116	snail 's	 	 	2
+154117	snail	 	 	2
+154118	Alarms for Duvall 's throbbing sincerity and his elderly propensity for patting people while he talks .	 	 	3
+154119	Alarms for Duvall 's throbbing sincerity and his elderly propensity for patting people while he talks	 	 	1
+154120	Alarms	 	 	2
+154121	for Duvall 's throbbing sincerity and his elderly propensity for patting people while he talks	 	 	2
+154122	Duvall 's throbbing sincerity and his elderly propensity for patting people while he talks	 	 	3
+154123	Duvall 's throbbing sincerity and	 	 	3
+154124	Duvall 's throbbing sincerity	 	 	3
+154125	Duvall 's	 	 	3
+154126	throbbing sincerity	 	 	3
+154127	throbbing	 	 	2
+154128	his elderly propensity for patting people while he talks	 	 	2
+154129	his elderly propensity	 	 	2
+154130	elderly propensity	 	 	2
+154131	elderly	 	 	2
+154132	propensity	 	 	2
+154133	for patting people while he talks	 	 	2
+154134	patting people while he talks	 	 	2
+154135	patting people	 	 	2
+154136	patting	 	 	2
+154137	while he talks	 	 	3
+154138	he talks	 	 	2
+154139	Rob Schneider , Dana Carvey and Sarah Michelle Gellar in The Philadelphia Story ?	 	 	2
+154140	Rob Schneider , Dana Carvey and Sarah Michelle Gellar in The Philadelphia Story	 	 	2
+154141	Rob Schneider ,	 	 	2
+154142	Dana Carvey and Sarah Michelle Gellar in The Philadelphia Story	 	 	2
+154143	Dana Carvey and	 	 	2
+154144	Sarah Michelle Gellar in The Philadelphia Story	 	 	2
+154145	Sarah Michelle Gellar	 	 	2
+154146	Michelle Gellar	 	 	2
+154147	Gellar	 	 	2
+154148	in The Philadelphia Story	 	 	2
+154149	The Philadelphia Story	 	 	2
+154150	Philadelphia Story	 	 	2
+154151	The acting is n't much better .	 	 	1
+154152	is n't much better .	 	 	1
+154153	is n't much better	 	 	1
+154154	Zoom !	 	 	3
+154155	Zoom	 	 	2
+154156	I had more fun with Ben Stiller 's Zoolander , which I thought was rather clever .	 	 	2
+154157	had more fun with Ben Stiller 's Zoolander , which I thought was rather clever .	 	 	3
+154158	had more fun with Ben Stiller 's Zoolander , which I thought was rather clever	 	 	3
+154159	had more fun	 	 	3
+154160	with Ben Stiller 's Zoolander , which I thought was rather clever	 	 	3
+154161	Ben Stiller 's Zoolander , which I thought was rather clever	 	 	3
+154162	Ben Stiller 's Zoolander ,	 	 	2
+154163	Ben Stiller 's Zoolander	 	 	2
+154164	Ben Stiller 's	 	 	2
+154165	Stiller 's	 	 	2
+154166	Stiller	 	 	2
+154167	Zoolander	 	 	2
+154168	which I thought was rather clever	 	 	4
+154169	I thought was rather clever	 	 	3
+154170	thought was rather clever	 	 	3
+154171	was rather clever	 	 	3
+154172	rather clever	 	 	3
+154173	If the film 's vision of sport as a secular religion is a bit cloying , its through-line of family and community is heartening in the same way that each season marks a new start .	 	 	3
+154174	If the film 's vision of sport as a secular religion is a bit cloying	 	 	2
+154175	the film 's vision of sport as a secular religion is a bit cloying	 	 	1
+154176	the film 's vision of sport as a secular religion	 	 	2
+154177	the film 's vision	 	 	2
+154178	of sport as a secular religion	 	 	2
+154179	sport as a secular religion	 	 	2
+154180	as a secular religion	 	 	2
+154181	a secular religion	 	 	2
+154182	secular religion	 	 	2
+154183	secular	 	 	2
+154184	is a bit cloying	 	 	2
+154185	a bit cloying	 	 	2
+154186	, its through-line of family and community is heartening in the same way that each season marks a new start .	 	 	3
+154187	its through-line of family and community is heartening in the same way that each season marks a new start .	 	 	3
+154188	its through-line of family and community	 	 	2
+154189	its through-line	 	 	2
+154190	of family and community	 	 	2
+154191	family and community	 	 	3
+154192	family and	 	 	2
+154193	is heartening in the same way that each season marks a new start .	 	 	3
+154194	is heartening in the same way that each season marks a new start	 	 	3
+154195	heartening in the same way that each season marks a new start	 	 	3
+154196	heartening in the same way	 	 	3
+154197	in the same way	 	 	2
+154198	that each season marks a new start	 	 	2
+154199	each season marks a new start	 	 	2
+154200	each season	 	 	2
+154201	marks a new start	 	 	2
+154202	a new start	 	 	2
+154203	new start	 	 	2
+154204	It 's pretty linear and only makeup-deep , but Bogdanovich ties it together with efficiency and an affection for the period .	 	 	3
+154205	It 's pretty linear and only makeup-deep , but Bogdanovich ties it together with efficiency and an affection for the period	 	 	3
+154206	It 's pretty linear and only makeup-deep , but	 	 	2
+154207	It 's pretty linear and only makeup-deep ,	 	 	1
+154208	It 's pretty linear and only makeup-deep	 	 	2
+154209	's pretty linear and only makeup-deep	 	 	1
+154210	pretty linear and only makeup-deep	 	 	2
+154211	pretty linear and	 	 	2
+154212	pretty linear	 	 	2
+154213	linear	 	 	2
+154214	only makeup-deep	 	 	1
+154215	makeup-deep	 	 	2
+154216	Bogdanovich ties it together with efficiency and an affection for the period	 	 	3
+154217	ties it together with efficiency and an affection for the period	 	 	3
+154218	ties it	 	 	2
+154219	together with efficiency and an affection for the period	 	 	3
+154220	with efficiency and an affection for the period	 	 	4
+154221	efficiency and an affection for the period	 	 	3
+154222	efficiency and	 	 	3
+154223	efficiency	 	 	2
+154224	an affection for the period	 	 	3
+154225	an affection	 	 	3
+154226	for the period	 	 	2
+154227	More mature than Fatal Attraction , more complete than Indecent Proposal and more relevant than 9 1\/2 Weeks , Unfaithful is at once intimate and universal cinema .	 	 	4
+154228	More mature than Fatal Attraction , more complete than Indecent Proposal and more relevant than 9 1\/2 Weeks	 	 	3
+154229	More mature than Fatal Attraction , more complete than Indecent Proposal and	 	 	3
+154230	More mature than Fatal Attraction , more complete than Indecent Proposal	 	 	3
+154231	More mature than Fatal Attraction ,	 	 	3
+154232	More mature than Fatal Attraction	 	 	3
+154233	mature than Fatal Attraction	 	 	2
+154234	than Fatal Attraction	 	 	2
+154235	more complete than Indecent Proposal	 	 	3
+154236	complete than Indecent Proposal	 	 	2
+154237	than Indecent Proposal	 	 	3
+154238	Indecent Proposal	 	 	2
+154239	more relevant than 9 1\/2 Weeks	 	 	3
+154240	relevant than 9 1\/2 Weeks	 	 	2
+154241	than 9 1\/2 Weeks	 	 	2
+154242	9 1\/2	 	 	2
+154243	, Unfaithful is at once intimate and universal cinema .	 	 	3
+154244	Unfaithful is at once intimate and universal cinema .	 	 	3
+154245	is at once intimate and universal cinema .	 	 	3
+154246	is at once intimate and universal cinema	 	 	3
+154247	at once intimate and universal cinema	 	 	2
+154248	once intimate and universal cinema	 	 	3
+154249	intimate and universal cinema	 	 	3
+154250	and universal cinema	 	 	2
+154251	universal cinema	 	 	2
+154252	That 's its first sign of trouble .	 	 	1
+154253	's its first sign of trouble .	 	 	2
+154254	's its first sign of trouble	 	 	1
+154255	its first sign of trouble	 	 	2
+154256	its first sign	 	 	2
+154257	first sign	 	 	2
+154258	A very charming and funny movie .	 	 	4
+154259	A very charming and funny movie	 	 	4
+154260	very charming and funny movie	 	 	3
+154261	very charming and funny	 	 	4
+154262	charming and funny	 	 	3
+154263	A good-looking but ultimately pointless political thriller with plenty of action and almost no substance .	 	 	2
+154264	A good-looking but ultimately pointless political thriller with plenty of action and almost no substance	 	 	2
+154265	A good-looking but ultimately pointless political thriller	 	 	1
+154266	good-looking but ultimately pointless political thriller	 	 	1
+154267	good-looking but ultimately pointless	 	 	1
+154268	ultimately pointless	 	 	1
+154269	political thriller	 	 	2
+154270	with plenty of action and almost no substance	 	 	1
+154271	plenty of action and almost no substance	 	 	2
+154272	of action and almost no substance	 	 	1
+154273	action and almost no substance	 	 	1
+154274	almost no substance	 	 	1
+154275	no substance	 	 	1
+154276	`` ... something appears to have been lost in the translation this time .	 	 	1
+154277	`` ... something appears to have been lost in the translation this time	 	 	1
+154278	... something appears to have been lost in the translation this time	 	 	1
+154279	something appears to have been lost in the translation this time	 	 	1
+154280	something appears	 	 	2
+154281	to have been lost in the translation this time	 	 	1
+154282	have been lost in the translation this time	 	 	1
+154283	been lost in the translation this time	 	 	1
+154284	lost in the translation this time	 	 	1
+154285	A period story about a Catholic boy who tries to help a Jewish friend get into heaven by sending the audience straight to hell .	 	 	1
+154286	A period story about a Catholic boy who tries to help a Jewish friend	 	 	2
+154287	A period story	 	 	2
+154288	period story	 	 	2
+154289	about a Catholic boy who tries to help a Jewish friend	 	 	2
+154290	a Catholic boy who tries to help a Jewish friend	 	 	2
+154291	a Catholic boy	 	 	2
+154292	Catholic boy	 	 	2
+154293	who tries to help a Jewish friend	 	 	2
+154294	tries to help a Jewish friend	 	 	2
+154295	to help a Jewish friend	 	 	2
+154296	help a Jewish friend	 	 	2
+154297	a Jewish friend	 	 	2
+154298	Jewish friend	 	 	2
+154299	get into heaven by sending the audience straight to hell .	 	 	2
+154300	get into heaven by sending the audience straight to hell	 	 	1
+154301	get into heaven	 	 	3
+154302	into heaven	 	 	3
+154303	by sending the audience straight to hell	 	 	1
+154304	sending the audience straight to hell	 	 	1
+154305	sending the audience	 	 	3
+154306	straight to hell	 	 	2
+154307	to hell	 	 	1
+154308	A markedly inactive film , City is conversational bordering on confessional .	 	 	1
+154309	A markedly inactive film , City	 	 	1
+154310	A markedly inactive film ,	 	 	1
+154311	A markedly inactive film	 	 	1
+154312	markedly inactive film	 	 	2
+154313	markedly inactive	 	 	1
+154314	markedly	 	 	2
+154315	inactive	 	 	1
+154316	is conversational bordering on confessional .	 	 	2
+154317	is conversational bordering on confessional	 	 	3
+154318	is conversational	 	 	2
+154319	conversational	 	 	2
+154320	bordering on confessional	 	 	1
+154321	on confessional	 	 	2
+154322	confessional	 	 	2
+154323	The strong subject matter continues to shock throughout the film .	 	 	2
+154324	The strong subject matter	 	 	2
+154325	strong subject matter	 	 	2
+154326	strong subject	 	 	2
+154327	continues to shock throughout the film .	 	 	2
+154328	continues to shock throughout the film	 	 	3
+154329	to shock throughout the film	 	 	1
+154330	shock throughout the film	 	 	2
+154331	throughout the film	 	 	2
+154332	A fan film that for the uninitiated plays better on video with the sound turned down .	 	 	1
+154333	A fan film that for the uninitiated plays better on video with the sound	 	 	2
+154334	A fan film	 	 	2
+154335	fan film	 	 	2
+154336	that for the uninitiated plays better on video with the sound	 	 	2
+154337	for the uninitiated plays better on video with the sound	 	 	1
+154338	for the uninitiated	 	 	2
+154339	the uninitiated	 	 	2
+154340	uninitiated	 	 	2
+154341	plays better on video with the sound	 	 	2
+154342	on video with the sound	 	 	2
+154343	video with the sound	 	 	2
+154344	with the sound	 	 	2
+154345	turned down .	 	 	2
+154346	turned down	 	 	1
+154347	Romanek keeps adding flourishes -- artsy fantasy sequences -- that simply feel wrong .	 	 	1
+154348	keeps adding flourishes -- artsy fantasy sequences -- that simply feel wrong .	 	 	1
+154349	keeps adding flourishes -- artsy fantasy sequences -- that simply feel wrong	 	 	1
+154350	adding flourishes -- artsy fantasy sequences -- that simply feel wrong	 	 	1
+154351	flourishes -- artsy fantasy sequences -- that simply feel wrong	 	 	2
+154352	flourishes -- artsy fantasy sequences --	 	 	3
+154353	-- artsy fantasy sequences --	 	 	2
+154354	artsy fantasy sequences --	 	 	3
+154355	artsy fantasy sequences	 	 	2
+154356	that simply feel wrong	 	 	2
+154357	simply feel wrong	 	 	1
+154358	feel wrong	 	 	2
+154359	The result is somewhat satisfying -- it still comes from Spielberg , who has never made anything that was n't at least watchable .	 	 	3
+154360	The result is somewhat satisfying -- it still comes from Spielberg , who has never made anything that was n't at least watchable	 	 	3
+154361	The result is somewhat satisfying --	 	 	3
+154362	The result is somewhat satisfying	 	 	3
+154363	is somewhat satisfying	 	 	3
+154364	somewhat satisfying	 	 	3
+154365	it still comes from Spielberg , who has never made anything that was n't at least watchable	 	 	3
+154366	still comes from Spielberg , who has never made anything that was n't at least watchable	 	 	3
+154367	comes from Spielberg , who has never made anything that was n't at least watchable	 	 	3
+154368	from Spielberg , who has never made anything that was n't at least watchable	 	 	2
+154369	Spielberg , who has never made anything that was n't at least watchable	 	 	2
+154370	Spielberg ,	 	 	2
+154371	who has never made anything that was n't at least watchable	 	 	1
+154372	has never made anything that was n't at least watchable	 	 	3
+154373	made anything that was n't at least watchable	 	 	2
+154374	anything that was n't at least watchable	 	 	2
+154375	that was n't at least watchable	 	 	1
+154376	was n't at least watchable	 	 	1
+154377	A wonderfully speculative character study that made up for its rather slow beginning by drawing me into the picture .	 	 	3
+154378	A wonderfully speculative character	 	 	3
+154379	wonderfully speculative character	 	 	4
+154380	wonderfully speculative	 	 	4
+154381	study that made up for its rather slow beginning by drawing me into the picture .	 	 	3
+154382	study that made up for its rather slow beginning by drawing me into the picture	 	 	3
+154383	that made up for its rather slow beginning by drawing me into the picture	 	 	3
+154384	made up for its rather slow beginning by drawing me into the picture	 	 	2
+154385	made up for its rather slow beginning	 	 	3
+154386	for its rather slow beginning	 	 	1
+154387	its rather slow beginning	 	 	1
+154388	rather slow beginning	 	 	1
+154389	rather slow	 	 	1
+154390	by drawing me into the picture	 	 	3
+154391	drawing me into the picture	 	 	2
+154392	drawing me	 	 	2
+154393	into the picture	 	 	2
+154394	Gibney and Jarecki just want to string the bastard up .	 	 	2
+154395	Gibney and Jarecki	 	 	2
+154396	Gibney and	 	 	2
+154397	just want to string the bastard up .	 	 	2
+154398	want to string the bastard up .	 	 	1
+154399	want to string the bastard up	 	 	1
+154400	to string the bastard up	 	 	2
+154401	string the bastard up	 	 	1
+154402	string the bastard	 	 	1
+154403	the bastard	 	 	1
+154404	bastard	 	 	2
+154405	Lazily directed by Charles Stone III ... from a leaden script by Matthew Cirulnick and novelist Thulani Davis .	 	 	1
+154406	directed by Charles Stone III ... from a leaden script by Matthew Cirulnick and novelist Thulani Davis .	 	 	2
+154407	directed by Charles Stone III ... from a leaden script by Matthew Cirulnick and novelist Thulani Davis	 	 	2
+154408	directed by Charles Stone III ... from a leaden script	 	 	2
+154409	directed by Charles Stone III ...	 	 	2
+154410	directed by Charles Stone III	 	 	2
+154411	by Charles Stone III	 	 	2
+154412	from a leaden script	 	 	2
+154413	a leaden script	 	 	2
+154414	leaden script	 	 	1
+154415	by Matthew Cirulnick and novelist Thulani Davis	 	 	2
+154416	Matthew Cirulnick and novelist Thulani Davis	 	 	2
+154417	Matthew Cirulnick and	 	 	2
+154418	Matthew Cirulnick	 	 	2
+154419	Cirulnick	 	 	2
+154420	novelist Thulani Davis	 	 	2
+154421	novelist	 	 	2
+154422	Thulani Davis	 	 	2
+154423	Thulani	 	 	2
+154424	Nonchalantly freaky and uncommonly pleasurable , Warm Water may well be the year 's best and most unpredictable comedy .	 	 	4
+154425	Nonchalantly freaky and uncommonly pleasurable	 	 	3
+154426	Nonchalantly freaky and	 	 	2
+154427	Nonchalantly freaky	 	 	2
+154428	Nonchalantly	 	 	2
+154429	uncommonly pleasurable	 	 	3
+154430	, Warm Water may well be the year 's best and most unpredictable comedy .	 	 	4
+154431	Warm Water may well be the year 's best and most unpredictable comedy .	 	 	4
+154432	may well be the year 's best and most unpredictable comedy .	 	 	3
+154433	may well be the year 's best and most unpredictable comedy	 	 	4
+154434	be the year 's best and most unpredictable comedy	 	 	4
+154435	the year 's best and most unpredictable comedy	 	 	4
+154436	best and most unpredictable comedy	 	 	4
+154437	best and most	 	 	3
+154438	unpredictable comedy	 	 	4
+154439	Though there 's a clarity of purpose and even-handedness to the film 's direction , the drama feels rigged and sluggish .	 	 	1
+154440	Though there 's a clarity of purpose and even-handedness to the film 's direction	 	 	3
+154441	there 's a clarity of purpose and even-handedness to the film 's direction	 	 	3
+154442	's a clarity of purpose and even-handedness to the film 's direction	 	 	3
+154443	's a clarity of purpose and even-handedness	 	 	3
+154444	a clarity of purpose and even-handedness	 	 	3
+154445	a clarity	 	 	2
+154446	of purpose and even-handedness	 	 	3
+154447	purpose and even-handedness	 	 	3
+154448	even-handedness	 	 	2
+154449	to the film 's direction	 	 	2
+154450	the film 's direction	 	 	2
+154451	, the drama feels rigged and sluggish .	 	 	1
+154452	the drama feels rigged and sluggish .	 	 	2
+154453	feels rigged and sluggish .	 	 	1
+154454	feels rigged and sluggish	 	 	1
+154455	rigged and sluggish	 	 	1
+154456	rigged and	 	 	2
+154457	rigged	 	 	2
+154458	Sunk by way too much indulgence of scene-chewing , teeth-gnashing actorliness .	 	 	1
+154459	Sunk by way too much indulgence of scene-chewing , teeth-gnashing actorliness	 	 	1
+154460	Sunk	 	 	1
+154461	by way too much indulgence of scene-chewing , teeth-gnashing actorliness	 	 	1
+154462	way too much indulgence of scene-chewing , teeth-gnashing actorliness	 	 	1
+154463	way too much	 	 	2
+154464	indulgence of scene-chewing , teeth-gnashing actorliness	 	 	2
+154465	of scene-chewing , teeth-gnashing actorliness	 	 	1
+154466	scene-chewing , teeth-gnashing actorliness	 	 	2
+154467	scene-chewing	 	 	1
+154468	, teeth-gnashing actorliness	 	 	2
+154469	teeth-gnashing actorliness	 	 	1
+154470	teeth-gnashing	 	 	1
+154471	actorliness	 	 	2
+154472	What starts off as a possible Argentine American Beauty reeks like a room stacked with pungent flowers .	 	 	1
+154473	starts off as a possible Argentine American Beauty reeks like a room stacked with pungent flowers .	 	 	1
+154474	starts off as a possible Argentine American Beauty reeks like a room stacked with pungent flowers	 	 	1
+154475	as a possible Argentine American Beauty reeks like a room stacked with pungent flowers	 	 	2
+154476	a possible Argentine American Beauty reeks like a room stacked with pungent flowers	 	 	2
+154477	a possible Argentine American Beauty reeks	 	 	1
+154478	possible Argentine American Beauty reeks	 	 	1
+154479	Argentine American Beauty reeks	 	 	1
+154480	American Beauty reeks	 	 	1
+154481	Beauty reeks	 	 	3
+154482	like a room stacked with pungent flowers	 	 	3
+154483	a room stacked with pungent flowers	 	 	2
+154484	a room	 	 	2
+154485	stacked with pungent flowers	 	 	2
+154486	with pungent flowers	 	 	2
+154487	pungent flowers	 	 	2
+154488	... by the time it 's done with us , Mira Nair 's new movie has its audience giddy with the delight of discovery , of having been immersed in a foreign culture only to find that human nature is pretty much the same all over .	 	 	4
+154489	by the time it 's done with us , Mira Nair 's new movie has its audience giddy with the delight of discovery , of having been immersed in a foreign culture only to find that human nature is pretty much the same all over .	 	 	4
+154490	by the time it 's done with us , Mira Nair 's new movie has its audience giddy with the delight of discovery , of having been immersed in a foreign culture only to find that human nature is pretty much the same all over	 	 	4
+154491	by the time it 's done with us , Mira Nair 's new movie has its audience giddy with the delight of discovery ,	 	 	4
+154492	by the time it 's done with us , Mira Nair 's new movie has its audience giddy with the delight of discovery	 	 	3
+154493	by the time it 's done with us ,	 	 	1
+154494	by the time it 's done with us	 	 	2
+154495	it 's done with us	 	 	2
+154496	's done with us	 	 	2
+154497	done with us	 	 	2
+154498	Mira Nair 's new movie has its audience giddy with the delight of discovery	 	 	3
+154499	Mira Nair 's new movie	 	 	2
+154500	new movie	 	 	2
+154501	has its audience giddy with the delight of discovery	 	 	3
+154502	its audience giddy with the delight of discovery	 	 	3
+154503	its audience giddy	 	 	3
+154504	audience giddy	 	 	2
+154505	with the delight of discovery	 	 	3
+154506	the delight of discovery	 	 	3
+154507	the delight	 	 	2
+154508	of discovery	 	 	3
+154509	of having been immersed in a foreign culture only to find that human nature is pretty much the same all over	 	 	2
+154510	having been immersed in a foreign culture only to find that human nature is pretty much the same all over	 	 	2
+154511	been immersed in a foreign culture only to find that human nature is pretty much the same all over	 	 	3
+154512	immersed in a foreign culture only to find that human nature is pretty much the same all over	 	 	2
+154513	immersed in a foreign culture only	 	 	3
+154514	in a foreign culture only	 	 	2
+154515	a foreign culture only	 	 	2
+154516	foreign culture only	 	 	1
+154517	culture only	 	 	2
+154518	to find that human nature is pretty much the same all over	 	 	2
+154519	find that human nature is pretty much the same all over	 	 	2
+154520	that human nature is pretty much the same all over	 	 	2
+154521	human nature is pretty much the same all over	 	 	2
+154522	is pretty much the same all over	 	 	1
+154523	is pretty much	 	 	2
+154524	the same all over	 	 	2
+154525	all over	 	 	2
+154526	Shot in rich , shadowy black-and-white , Devils chronicles , with increasingly amused irony , the relationship between reluctant captors and befuddled captives .	 	 	4
+154527	Shot in rich , shadowy black-and-white , Devils chronicles	 	 	3
+154528	in rich , shadowy black-and-white , Devils chronicles	 	 	2
+154529	rich , shadowy black-and-white , Devils chronicles	 	 	2
+154530	rich , shadowy black-and-white ,	 	 	2
+154531	rich , shadowy black-and-white	 	 	3
+154532	, shadowy black-and-white	 	 	2
+154533	shadowy black-and-white	 	 	2
+154534	Devils chronicles	 	 	2
+154535	, with increasingly amused irony , the relationship between reluctant captors and befuddled captives .	 	 	3
+154536	with increasingly amused irony , the relationship between reluctant captors and befuddled captives .	 	 	3
+154537	with increasingly amused irony	 	 	2
+154538	increasingly amused irony	 	 	3
+154539	increasingly amused	 	 	3
+154540	, the relationship between reluctant captors and befuddled captives .	 	 	2
+154541	the relationship between reluctant captors and befuddled captives .	 	 	2
+154542	the relationship between reluctant	 	 	3
+154543	between reluctant	 	 	2
+154544	captors and befuddled captives .	 	 	2
+154545	captors and befuddled captives	 	 	2
+154546	captors and	 	 	2
+154547	captors	 	 	2
+154548	befuddled captives	 	 	2
+154549	captives	 	 	2
+154550	Bond-inspired ?	 	 	2
+154551	Bond-inspired	 	 	3
+154552	Staggeringly dreadful romance .	 	 	1
+154553	dreadful romance .	 	 	1
+154554	dreadful romance	 	 	1
+154555	This method almost never fails him , and it works superbly here .	 	 	4
+154556	This method almost never fails him , and it works superbly here	 	 	2
+154557	This method almost never fails him , and	 	 	3
+154558	This method almost never fails him ,	 	 	2
+154559	This method almost never fails him	 	 	3
+154560	This method	 	 	2
+154561	method	 	 	2
+154562	almost never fails him	 	 	3
+154563	never fails him	 	 	3
+154564	fails him	 	 	1
+154565	it works superbly here	 	 	4
+154566	works superbly here	 	 	4
+154567	works superbly	 	 	4
+154568	Weird .	 	 	1
+154569	Nolan proves that he can cross swords with the best of them and helm a more traditionally plotted popcorn thriller while surrendering little of his intellectual rigor or creative composure .	 	 	4
+154570	proves that he can cross swords with the best of them and helm a more traditionally plotted popcorn thriller while surrendering little of his intellectual rigor or creative composure .	 	 	3
+154571	proves that he can cross swords with the best of them and helm a more traditionally plotted popcorn thriller while surrendering little of his intellectual rigor or creative composure	 	 	3
+154572	that he can cross swords with the best of them and helm a more traditionally plotted popcorn thriller while surrendering little of his intellectual rigor or creative composure	 	 	3
+154573	he can cross swords with the best of them and helm a more traditionally plotted popcorn thriller while surrendering little of his intellectual rigor or creative composure	 	 	3
+154574	can cross swords with the best of them and helm a more traditionally plotted popcorn thriller while surrendering little of his intellectual rigor or creative composure	 	 	3
+154575	cross swords with the best of them and helm a more traditionally plotted popcorn thriller while surrendering little of his intellectual rigor or creative composure	 	 	3
+154576	cross swords with the best of them and	 	 	3
+154577	cross swords with the best of them	 	 	2
+154578	cross swords	 	 	2
+154579	swords	 	 	2
+154580	helm a more traditionally plotted popcorn thriller while surrendering little of his intellectual rigor or creative composure	 	 	3
+154581	helm a more traditionally plotted popcorn thriller	 	 	2
+154582	a more traditionally plotted popcorn thriller	 	 	2
+154583	more traditionally plotted popcorn thriller	 	 	3
+154584	traditionally plotted popcorn thriller	 	 	2
+154585	traditionally plotted	 	 	2
+154586	popcorn thriller	 	 	3
+154587	while surrendering little of his intellectual rigor or creative composure	 	 	2
+154588	surrendering little of his intellectual rigor or creative composure	 	 	2
+154589	surrendering	 	 	2
+154590	little of his intellectual rigor or creative composure	 	 	2
+154591	of his intellectual rigor or creative composure	 	 	2
+154592	his intellectual rigor or creative composure	 	 	2
+154593	his intellectual rigor or	 	 	3
+154594	his intellectual rigor	 	 	3
+154595	intellectual rigor	 	 	2
+154596	creative composure	 	 	3
+154597	composure	 	 	2
+154598	Maybe not a classic , but a movie the kids will want to see over and over again .	 	 	4
+154599	not a classic , but a movie the kids will want to see over and over again .	 	 	3
+154600	not a classic , but a movie the kids	 	 	2
+154601	not a classic , but a movie	 	 	2
+154602	not a classic ,	 	 	1
+154603	not a classic	 	 	1
+154604	a classic	 	 	4
+154605	but a movie	 	 	2
+154606	will want to see over and over again .	 	 	4
+154607	will want to see over and over again	 	 	4
+154608	want to see over and over again	 	 	4
+154609	to see over and over again	 	 	3
+154610	see over and over again	 	 	3
+154611	see over and over	 	 	3
+154612	The film did n't move me one way or the other , but it was an honest effort and if you want to see a flick about telemarketers this one will due .	 	 	2
+154613	The film did n't move me one way or the other , but it was an honest effort and if you want to see a flick about telemarketers this one will due	 	 	2
+154614	The film did n't move me one way or the other , but	 	 	2
+154615	The film did n't move me one way or the other ,	 	 	1
+154616	The film did n't move me one way or the other	 	 	1
+154617	did n't move me one way or the other	 	 	1
+154618	move me one way or the other	 	 	2
+154619	me one way or the other	 	 	2
+154620	one way or the other	 	 	2
+154621	it was an honest effort and if you want to see a flick about telemarketers this one will due	 	 	2
+154622	it was an honest effort and	 	 	2
+154623	it was an honest effort	 	 	3
+154624	was an honest effort	 	 	3
+154625	an honest effort	 	 	3
+154626	honest effort	 	 	3
+154627	if you want to see a flick about telemarketers this one will due	 	 	3
+154628	if you want to see a flick about telemarketers	 	 	1
+154629	you want to see a flick about telemarketers	 	 	2
+154630	want to see a flick about telemarketers	 	 	2
+154631	to see a flick about telemarketers	 	 	2
+154632	see a flick about telemarketers	 	 	1
+154633	a flick about telemarketers	 	 	2
+154634	about telemarketers	 	 	2
+154635	this one will due	 	 	2
+154636	will due	 	 	2
+154637	And as with most late-night bull sessions , eventually the content is n't nearly as captivating as the rowdy participants think it is .	 	 	1
+154638	as with most late-night bull sessions , eventually the content is n't nearly as captivating as the rowdy participants think it is .	 	 	1
+154639	as with most late-night bull sessions	 	 	2
+154640	with most late-night bull sessions	 	 	2
+154641	most late-night bull sessions	 	 	1
+154642	late-night bull sessions	 	 	2
+154643	bull sessions	 	 	1
+154644	, eventually the content is n't nearly as captivating as the rowdy participants think it is .	 	 	1
+154645	eventually the content is n't nearly as captivating as the rowdy participants think it is .	 	 	1
+154646	the content is n't nearly as captivating as the rowdy participants think it is .	 	 	1
+154647	the content	 	 	2
+154648	is n't nearly as captivating as the rowdy participants think it is .	 	 	1
+154649	is n't nearly as captivating as the rowdy participants think it is	 	 	2
+154650	nearly as captivating as the rowdy participants think it is	 	 	3
+154651	as captivating as the rowdy participants think it is	 	 	2
+154652	captivating as the rowdy participants think it is	 	 	3
+154653	as the rowdy participants think it is	 	 	2
+154654	the rowdy participants think it is	 	 	2
+154655	the rowdy participants	 	 	2
+154656	rowdy participants	 	 	3
+154657	think it is	 	 	2
+154658	The kind of sweet-and-sour insider movie that film buffs will eat up like so much gelati .	 	 	4
+154659	The kind of sweet-and-sour insider movie that film buffs will eat up like so much gelati	 	 	4
+154660	of sweet-and-sour insider movie that film buffs will eat up like so much gelati	 	 	3
+154661	sweet-and-sour insider movie that film buffs will eat up like so much gelati	 	 	4
+154662	sweet-and-sour insider movie	 	 	2
+154663	insider movie	 	 	2
+154664	that film buffs will eat up like so much gelati	 	 	3
+154665	film buffs will eat up like so much gelati	 	 	4
+154666	will eat up like so much gelati	 	 	3
+154667	eat up like so much gelati	 	 	2
+154668	like so much gelati	 	 	2
+154669	so much gelati	 	 	2
+154670	gelati	 	 	2
+154671	Ill-considered , unholy hokum .	 	 	1
+154672	, unholy hokum .	 	 	1
+154673	unholy hokum .	 	 	1
+154674	unholy hokum	 	 	1
+154675	Or that the battery on your watch has died .	 	 	2
+154676	that the battery on your watch has died .	 	 	2
+154677	that the battery on your watch has died	 	 	2
+154678	the battery on your watch has died	 	 	1
+154679	the battery on your watch	 	 	2
+154680	the battery	 	 	3
+154681	battery	 	 	2
+154682	on your watch	 	 	2
+154683	has died	 	 	1
+154684	Competently directed but terminally cute drama .	 	 	3
+154685	directed but terminally cute drama .	 	 	3
+154686	directed but terminally cute drama	 	 	2
+154687	directed but	 	 	2
+154688	terminally cute drama	 	 	3
+154689	cute drama	 	 	3
+154690	This pathetic junk is barely an hour long .	 	 	1
+154691	This pathetic junk	 	 	1
+154692	pathetic junk	 	 	1
+154693	is barely an hour long .	 	 	1
+154694	is barely an hour long	 	 	2
+154695	is barely	 	 	3
+154696	an hour long	 	 	2
+154697	-LRB- Taylor -RRB- takes us on a ride that 's consistently surprising , easy to watch -- but , oh , so dumb .	 	 	2
+154698	-LRB- Taylor -RRB-	 	 	2
+154699	Taylor -RRB-	 	 	2
+154700	takes us on a ride that 's consistently surprising , easy to watch -- but , oh , so dumb .	 	 	2
+154701	takes us on a ride that 's consistently surprising , easy to watch -- but , oh , so dumb	 	 	2
+154702	on a ride that 's consistently surprising , easy to watch -- but , oh , so dumb	 	 	3
+154703	a ride that 's consistently surprising , easy to watch -- but , oh , so dumb	 	 	3
+154704	that 's consistently surprising , easy to watch -- but , oh , so dumb	 	 	1
+154705	's consistently surprising , easy to watch -- but , oh , so dumb	 	 	2
+154706	's consistently surprising , easy to watch -- but ,	 	 	3
+154707	's consistently surprising , easy to watch -- but	 	 	3
+154708	's consistently surprising , easy	 	 	3
+154709	consistently surprising , easy	 	 	3
+154710	consistently surprising ,	 	 	3
+154711	consistently surprising	 	 	3
+154712	to watch -- but	 	 	2
+154713	watch -- but	 	 	2
+154714	watch --	 	 	2
+154715	oh , so dumb	 	 	2
+154716	, so dumb	 	 	1
+154717	so dumb	 	 	1
+154718	Feels less like a change in -LRB- Herzog 's -RRB- personal policy than a half-hearted fluke .	 	 	1
+154719	Feels less	 	 	1
+154720	like a change in -LRB- Herzog 's -RRB- personal policy than a half-hearted fluke .	 	 	1
+154721	like a change in -LRB- Herzog 's -RRB- personal policy than a half-hearted fluke	 	 	2
+154722	like a change in -LRB- Herzog 's -RRB- personal policy	 	 	3
+154723	a change in -LRB- Herzog 's -RRB- personal policy	 	 	2
+154724	in -LRB- Herzog 's -RRB- personal policy	 	 	2
+154725	-LRB- Herzog 's -RRB- personal policy	 	 	3
+154726	-LRB- Herzog 's -RRB-	 	 	2
+154727	Herzog 's -RRB-	 	 	2
+154728	personal policy	 	 	2
+154729	than a half-hearted fluke	 	 	1
+154730	a half-hearted fluke	 	 	1
+154731	half-hearted fluke	 	 	1
+154732	Just too silly and sophomoric to ensnare its target audience .	 	 	1
+154733	Just too silly and sophomoric	 	 	2
+154734	Just too silly and	 	 	1
+154735	Just too silly	 	 	1
+154736	to ensnare its target audience .	 	 	3
+154737	to ensnare its target audience	 	 	2
+154738	ensnare its target audience	 	 	2
+154739	ensnare	 	 	2
+154740	Familiar but utterly delightful .	 	 	3
+154741	but utterly delightful .	 	 	3
+154742	utterly delightful .	 	 	4
+154743	delightful .	 	 	4
+154744	For those of us who respond more strongly to storytelling than computer-generated effects , the new Star Wars installment has n't escaped the rut dug by the last one .	 	 	1
+154745	For those of us who respond more strongly to storytelling than computer-generated effects	 	 	2
+154746	those of us who respond more strongly to storytelling than computer-generated effects	 	 	2
+154747	who respond more strongly to storytelling than computer-generated effects	 	 	2
+154748	respond more strongly to storytelling than computer-generated effects	 	 	2
+154749	respond more strongly to storytelling	 	 	2
+154750	more strongly to storytelling	 	 	3
+154751	more strongly	 	 	3
+154752	than computer-generated effects	 	 	2
+154753	computer-generated effects	 	 	2
+154754	, the new Star Wars installment has n't escaped the rut dug by the last one .	 	 	1
+154755	the new Star Wars installment has n't escaped the rut dug by the last one .	 	 	1
+154756	the new Star Wars installment	 	 	2
+154757	new Star Wars installment	 	 	2
+154758	Star Wars installment	 	 	2
+154759	Wars installment	 	 	2
+154760	has n't escaped the rut dug by the last one .	 	 	1
+154761	has n't escaped the rut dug by the last one	 	 	1
+154762	escaped the rut dug by the last one	 	 	1
+154763	the rut dug by the last one	 	 	1
+154764	the rut	 	 	2
+154765	dug by the last one	 	 	2
+154766	dug	 	 	2
+154767	by the last one	 	 	2
+154768	the last one	 	 	2
+154769	last one	 	 	2
+154770	Consider it ` perfection . '	 	 	4
+154771	Consider it ` perfection .	 	 	4
+154772	Consider it ` perfection	 	 	4
+154773	it ` perfection	 	 	4
+154774	` perfection	 	 	4
+154775	At the one-hour mark , Herzog simply runs out of ideas and the pace turns positively leaden as the movie sputters to its inevitable tragic conclusion .	 	 	1
+154776	At the one-hour mark	 	 	2
+154777	the one-hour mark	 	 	2
+154778	one-hour mark	 	 	3
+154779	, Herzog simply runs out of ideas and the pace turns positively leaden as the movie sputters to its inevitable tragic conclusion .	 	 	1
+154780	Herzog simply runs out of ideas and the pace turns positively leaden as the movie sputters to its inevitable tragic conclusion .	 	 	1
+154781	Herzog simply runs out of ideas and the pace turns positively leaden as the movie sputters to its inevitable tragic conclusion	 	 	1
+154782	Herzog simply runs out of ideas and	 	 	1
+154783	Herzog simply runs out of ideas	 	 	1
+154784	simply runs out of ideas	 	 	1
+154785	runs out of ideas	 	 	1
+154786	the pace turns positively leaden as the movie sputters to its inevitable tragic conclusion	 	 	2
+154787	turns positively leaden as the movie sputters to its inevitable tragic conclusion	 	 	2
+154788	positively leaden as the movie sputters to its inevitable tragic conclusion	 	 	2
+154789	leaden as the movie sputters to its inevitable tragic conclusion	 	 	1
+154790	leaden as the movie sputters	 	 	1
+154791	as the movie sputters	 	 	1
+154792	the movie sputters	 	 	1
+154793	movie sputters	 	 	1
+154794	sputters	 	 	2
+154795	to its inevitable tragic conclusion	 	 	1
+154796	its inevitable tragic conclusion	 	 	2
+154797	inevitable tragic conclusion	 	 	2
+154798	tragic conclusion	 	 	2
+154799	This is a more fascinating look at the future than `` Bladerunner '' and one of the most high-concept sci fi adventures attempted for the screen .	 	 	3
+154800	is a more fascinating look at the future than `` Bladerunner '' and one of the most high-concept sci fi adventures attempted for the screen .	 	 	4
+154801	is a more fascinating look at the future than `` Bladerunner '' and one of the most high-concept sci fi adventures attempted for the screen	 	 	4
+154802	a more fascinating look at the future than `` Bladerunner '' and one of the most high-concept sci fi adventures attempted for the screen	 	 	4
+154803	a more fascinating look	 	 	2
+154804	more fascinating look	 	 	3
+154805	at the future than `` Bladerunner '' and one of the most high-concept sci fi adventures attempted for the screen	 	 	3
+154806	the future than `` Bladerunner '' and one of the most high-concept sci fi adventures attempted for the screen	 	 	3
+154807	the future than `` Bladerunner '' and	 	 	2
+154808	the future than `` Bladerunner ''	 	 	2
+154809	than `` Bladerunner ''	 	 	2
+154810	`` Bladerunner ''	 	 	2
+154811	Bladerunner ''	 	 	2
+154812	Bladerunner	 	 	2
+154813	one of the most high-concept sci fi adventures attempted for the screen	 	 	4
+154814	of the most high-concept sci fi adventures attempted for the screen	 	 	3
+154815	the most high-concept sci fi adventures attempted for the screen	 	 	4
+154816	the most high-concept sci fi adventures	 	 	4
+154817	most high-concept sci fi adventures	 	 	2
+154818	high-concept sci fi adventures	 	 	3
+154819	sci fi adventures	 	 	2
+154820	sci	 	 	2
+154821	fi adventures	 	 	2
+154822	fi	 	 	2
+154823	attempted for the screen	 	 	2
+154824	for the screen	 	 	2
+154825	Samuel L. Jackson is one of the best actors there is .	 	 	4
+154826	Samuel L. Jackson	 	 	3
+154827	L. Jackson	 	 	2
+154828	is one of the best actors there is .	 	 	4
+154829	is one of the best actors there is	 	 	4
+154830	one of the best actors there is	 	 	4
+154831	of the best actors there is	 	 	3
+154832	the best actors there is	 	 	3
+154833	the best actors	 	 	4
+154834	Huppert 's show to steal and she makes a meal of it , channeling Kathy Baker 's creepy turn as the repressed mother on Boston Public just as much as 8 Women 's Augustine .	 	 	3
+154835	Huppert 's show to steal and she makes a meal of it , channeling Kathy Baker 's creepy turn as the repressed mother on Boston Public just as much as 8 Women 's Augustine	 	 	3
+154836	Huppert 's show to steal and	 	 	2
+154837	Huppert 's show to steal	 	 	3
+154838	show to steal	 	 	3
+154839	to steal	 	 	2
+154840	she makes a meal of it , channeling Kathy Baker 's creepy turn as the repressed mother on Boston Public just as much as 8 Women 's Augustine	 	 	2
+154841	makes a meal of it , channeling Kathy Baker 's creepy turn as the repressed mother on Boston Public just as much as 8 Women 's Augustine	 	 	2
+154842	makes a meal of it ,	 	 	2
+154843	makes a meal of it	 	 	3
+154844	a meal of it	 	 	2
+154845	a meal	 	 	2
+154846	channeling Kathy Baker 's creepy turn as the repressed mother on Boston Public just as much as 8 Women 's Augustine	 	 	1
+154847	channeling Kathy Baker 's creepy turn as the repressed mother on Boston Public just	 	 	2
+154848	Kathy Baker 's creepy turn as the repressed mother on Boston Public just	 	 	2
+154849	Kathy Baker 's creepy turn	 	 	1
+154850	Kathy Baker 's	 	 	2
+154851	Baker 's	 	 	2
+154852	Baker	 	 	2
+154853	creepy turn	 	 	1
+154854	as the repressed mother on Boston Public just	 	 	2
+154855	the repressed mother on Boston Public just	 	 	2
+154856	the repressed mother	 	 	2
+154857	repressed mother	 	 	2
+154858	on Boston Public just	 	 	2
+154859	Boston Public just	 	 	2
+154860	Boston Public	 	 	2
+154861	Boston	 	 	2
+154862	as much as 8 Women 's Augustine	 	 	2
+154863	as much as 8	 	 	2
+154864	much as 8	 	 	2
+154865	as 8	 	 	2
+154866	Women 's Augustine	 	 	2
+154867	Augustine	 	 	2
+154868	But no. .	 	 	1
+154869	Even in terms of the low-grade cheese standards on which it operates , it never quite makes the grade as tawdry trash .	 	 	1
+154870	Even in terms of the low-grade cheese standards on which it operates	 	 	1
+154871	in terms of the low-grade cheese standards on which it operates	 	 	1
+154872	terms of the low-grade cheese standards on which it operates	 	 	1
+154873	of the low-grade cheese standards on which it operates	 	 	1
+154874	the low-grade cheese standards on which it operates	 	 	1
+154875	the low-grade cheese standards	 	 	1
+154876	low-grade cheese standards	 	 	1
+154877	cheese standards	 	 	2
+154878	on which it operates	 	 	2
+154879	it operates	 	 	2
+154880	, it never quite makes the grade as tawdry trash .	 	 	1
+154881	it never quite makes the grade as tawdry trash .	 	 	1
+154882	never quite makes the grade as tawdry trash .	 	 	1
+154883	makes the grade as tawdry trash .	 	 	1
+154884	makes the grade as tawdry trash	 	 	1
+154885	the grade as tawdry trash	 	 	1
+154886	the grade	 	 	2
+154887	as tawdry trash	 	 	1
+154888	tawdry trash	 	 	1
+154889	If you love him , you 'll like it .	 	 	3
+154890	If you love him	 	 	2
+154891	you love him	 	 	3
+154892	, you 'll like it .	 	 	4
+154893	you 'll like it .	 	 	3
+154894	'll like it .	 	 	2
+154895	'll like it	 	 	3
+154896	A new film from Bill Plympton , the animation master , is always welcome .	 	 	4
+154897	A new film from Bill Plympton , the animation master ,	 	 	2
+154898	A new film	 	 	2
+154899	from Bill Plympton , the animation master ,	 	 	3
+154900	Bill Plympton , the animation master ,	 	 	3
+154901	Bill Plympton , the animation master	 	 	3
+154902	Bill Plympton ,	 	 	2
+154903	Bill Plympton	 	 	2
+154904	the animation master	 	 	3
+154905	animation master	 	 	3
+154906	is always welcome .	 	 	3
+154907	is always welcome	 	 	3
+154908	There 's no getting around the fact that this is Revenge Of The Nerds Revisited -- again .	 	 	2
+154909	's no getting around the fact that this is Revenge Of The Nerds Revisited -- again .	 	 	3
+154910	's no getting around the fact that this is Revenge Of The Nerds Revisited -- again	 	 	2
+154911	no getting around the fact that this is Revenge Of The Nerds Revisited -- again	 	 	1
+154912	getting around the fact that this is Revenge Of The Nerds Revisited -- again	 	 	1
+154913	getting around the fact that this is Revenge Of The Nerds Revisited --	 	 	1
+154914	getting around the fact that this is Revenge Of The Nerds Revisited	 	 	1
+154915	getting around	 	 	2
+154916	the fact that this is Revenge Of The Nerds Revisited	 	 	2
+154917	fact that this is Revenge Of The Nerds Revisited	 	 	3
+154918	that this is Revenge Of The Nerds Revisited	 	 	1
+154919	this is Revenge Of The Nerds Revisited	 	 	2
+154920	is Revenge Of The Nerds Revisited	 	 	2
+154921	Revenge Of The Nerds Revisited	 	 	2
+154922	Of The Nerds Revisited	 	 	2
+154923	The Nerds Revisited	 	 	2
+154924	Nerds Revisited	 	 	2
+154925	Revisited	 	 	2
+154926	The idea is more interesting than the screenplay , which lags badly in the middle and lurches between not-very-funny comedy , unconvincing dramatics and some last-minute action strongly reminiscent of Run Lola Run .	 	 	1
+154927	is more interesting than the screenplay , which lags badly in the middle and lurches between not-very-funny comedy , unconvincing dramatics and some last-minute action strongly reminiscent of Run Lola Run .	 	 	1
+154928	is more interesting than the screenplay , which lags badly in the middle and lurches between not-very-funny comedy , unconvincing dramatics and some last-minute action strongly reminiscent of Run Lola Run	 	 	1
+154929	more interesting than the screenplay , which lags badly in the middle and lurches between not-very-funny comedy , unconvincing dramatics and some last-minute action strongly reminiscent of Run Lola Run	 	 	1
+154930	interesting than the screenplay , which lags badly in the middle and lurches between not-very-funny comedy , unconvincing dramatics and some last-minute action strongly reminiscent of Run Lola Run	 	 	1
+154931	than the screenplay , which lags badly in the middle and lurches between not-very-funny comedy , unconvincing dramatics and some last-minute action strongly reminiscent of Run Lola Run	 	 	1
+154932	the screenplay , which lags badly in the middle and lurches between not-very-funny comedy , unconvincing dramatics and some last-minute action strongly reminiscent of Run Lola Run	 	 	1
+154933	which lags badly in the middle and lurches between not-very-funny comedy , unconvincing dramatics and some last-minute action strongly reminiscent of Run Lola Run	 	 	1
+154934	lags badly in the middle and lurches between not-very-funny comedy , unconvincing dramatics and some last-minute action strongly reminiscent of Run Lola Run	 	 	1
+154935	lags badly	 	 	1
+154936	lags	 	 	2
+154937	in the middle and lurches between not-very-funny comedy , unconvincing dramatics and some last-minute action strongly reminiscent of Run Lola Run	 	 	1
+154938	the middle and lurches between not-very-funny comedy , unconvincing dramatics and some last-minute action strongly reminiscent of Run Lola Run	 	 	1
+154939	the middle and lurches between not-very-funny comedy , unconvincing dramatics and	 	 	1
+154940	the middle and lurches between not-very-funny comedy , unconvincing dramatics	 	 	1
+154941	middle and lurches between not-very-funny comedy , unconvincing dramatics	 	 	1
+154942	and lurches between not-very-funny comedy , unconvincing dramatics	 	 	1
+154943	lurches between not-very-funny comedy , unconvincing dramatics	 	 	1
+154944	lurches between not-very-funny comedy	 	 	1
+154945	lurches	 	 	2
+154946	between not-very-funny comedy	 	 	2
+154947	not-very-funny comedy	 	 	1
+154948	not-very-funny	 	 	1
+154949	, unconvincing dramatics	 	 	1
+154950	unconvincing dramatics	 	 	2
+154951	dramatics	 	 	2
+154952	some last-minute action strongly reminiscent of Run Lola Run	 	 	3
+154953	some last-minute action strongly reminiscent	 	 	2
+154954	some last-minute action	 	 	2
+154955	last-minute action	 	 	3
+154956	strongly reminiscent	 	 	1
+154957	of Run Lola Run	 	 	2
+154958	Woefully pretentious .	 	 	1
+154959	Lacks the visual flair and bouncing bravado that characterizes better hip-hop clips and is content to recycle images and characters that were already tired 10 years ago .	 	 	1
+154960	Lacks the visual flair and bouncing bravado that characterizes better hip-hop clips and is content to recycle images and characters that were already tired 10 years ago	 	 	1
+154961	the visual flair and bouncing bravado that characterizes better hip-hop clips and is content to recycle images and characters that were already tired 10 years ago	 	 	1
+154962	the visual flair and bouncing bravado	 	 	3
+154963	visual flair and bouncing bravado	 	 	2
+154964	flair and bouncing bravado	 	 	3
+154965	and bouncing bravado	 	 	2
+154966	bouncing bravado	 	 	3
+154967	that characterizes better hip-hop clips and is content to recycle images and characters that were already tired 10 years ago	 	 	1
+154968	characterizes better hip-hop clips and is content to recycle images and characters that were already tired 10 years ago	 	 	1
+154969	characterizes better hip-hop clips and	 	 	2
+154970	characterizes better hip-hop clips	 	 	2
+154971	characterizes	 	 	2
+154972	better hip-hop clips	 	 	3
+154973	hip-hop clips	 	 	2
+154974	is content to recycle images and characters that were already tired 10 years ago	 	 	2
+154975	content to recycle images and characters that were already tired 10 years ago	 	 	1
+154976	to recycle images and characters that were already tired 10 years ago	 	 	1
+154977	recycle images and characters that were already tired 10 years ago	 	 	1
+154978	images and characters that were already tired 10 years ago	 	 	1
+154979	images and characters	 	 	2
+154980	that were already tired 10 years ago	 	 	1
+154981	were already tired 10 years ago	 	 	2
+154982	were already tired	 	 	1
+154983	already tired	 	 	1
+154984	10 years ago	 	 	2
+154985	10 years	 	 	2
+154986	Makes one thing abundantly clear .	 	 	3
+154987	Makes one thing abundantly clear	 	 	2
+154988	one thing abundantly clear	 	 	2
+154989	abundantly clear	 	 	2
+154990	abundantly	 	 	2
+154991	A flick about our infantilized culture that is n't entirely infantile .	 	 	3
+154992	A flick about our infantilized culture that is n't entirely infantile	 	 	3
+154993	about our infantilized culture that is n't entirely infantile	 	 	2
+154994	our infantilized culture that is n't entirely infantile	 	 	1
+154995	our infantilized culture	 	 	1
+154996	infantilized culture	 	 	2
+154997	infantilized	 	 	2
+154998	that is n't entirely infantile	 	 	2
+154999	is n't entirely infantile	 	 	2
